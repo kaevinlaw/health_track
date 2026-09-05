@@ -439,7 +439,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-03,19:30,Dinner,chayote enoki and lean pork slices,0.33,bowl,85,11.0,0.7,25,1.4,0,合掌瓜 金菇 梅頭豬肉片
 2026-09-03,19:30,Dinner,hairy gourd from soup,1,bowl,25,1.0,0.3,20,0.05,0,
 2026-09-03,19:30,Dinner,boiled lettuce,1,bowl,15,1.2,0.4,30,0.05,0,
-2026-09-01,19:50,Snack,hoshi fish snack,5,g,22,3.2,0.3,20,0.25,0,
+2026-09-03,19:50,Snack,hoshi fish snack,5,g,22,3.2,0.3,20,0.25,0,
 2026-09-03,21:50,Snack,konjac glucomannan jelly,2,piece,7.5,0.1,0.05,5,0.0,0,lemon salt
 2026-09-03,22:00,Hydration,h2o,350,ml,0,0,0,0,0,0,
 
@@ -457,5 +457,36 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-04,14:40,Lunch,boiled lettuce / greens,0.25,bowl,5,0.4,0.15,8,0.02,0,
 2026-09-04,14:53,Lunch,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,,300,1.25,0,2.0g plant sterol
 2026-09-04,16:15,Hydration,h2o,450,ml,0,0,0,0,0,0,
-2026-09-04,17:00,Snack,almonds,10,piece,~80-90,2.5-3,~1,,0.4,,
+2026-09-04,17:00,Snack,almonds,5,piece,~40,1.25,~0.5,,0.2,,
 2026-09-04,17:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-04,19:30,Dinner,carrot corn lean pork soup liquid only,2,bowl,60,4.0,0.5,40,0.5,0,lean pork for taste
+2026-09-04,19:30,Dinner,steamed salmon small piece,0.33,bowl,110,12.0,0.5,15,1.8,0,
+2026-09-04,19:30,Dinner,tofu steamed pork patty 1:2 lean,0.5,bowl,140,14.0,1.0,50,2.2,0,ate all from both photos
+2026-09-04,19:30,Dinner,boiled lettuce,0.5,bowl,10,0.8,0.3,20,0.03,0,
+2026-09-04,19:30,Dinner,boiled okra,5,piece,20,1.5,0.6,50,0.0,0,
+2026-09-04,19:30,Dinner,stir-fried cucumber with egg,0.33,bowl,35,2.0,0.3,15,0.4,0,very little egg just coating the cucumber
+2026-09-04,21:20,Snack,sansui tofu dessert,1,pack,136,4.4,0.8,60,0.66,0,220g; label per 100g: 62kcal; 2g protein; 1.5g total fat; 0.3g sat fat; 9.5g sugars
+2026-09-04,21:50,Snack,konjac glucomannan jelly,2,piece,7.5,0.1,0.05,5,0.0,0,
+2026-09-05,08:50,Snack,envy apple,240,g,130,1.5,0.3,15,0.1,0,
+2026-09-05,09:40,Breakfast,boiled okra,70,g,25,1.8,0.5,55,0.0,0,7 pieces
+2026-09-05,09:50,Breakfast,steamed potato,46,g,40,0.8,0.3,8,0.0,0,
+2026-09-05,10:15,Hydration,h2o,350,ml,0,0,0,0,0,0,
+2026-09-05,11:30,Hydration,h2o,350,ml,0,0,0,0,0,0,
+2026-09-05,12:20,Lunch,edamame,5,spoon,55,5.5,0.8,45,0.3,0,shelled
+2026-09-05,12:20,Lunch,boiled egg,1,piece,70,6.3,0.9,25,1.5,0,
+2026-09-05,12:20,Lunch,oatmeal,36,g,135,4.5,1.5,20,0.5,0,dry weight; made to 350ml with hot water
+2026-09-05,12:40,Lunch,chinese cabbage,0.67,bowl,20,1.5,0.5,40,0.1,0,
+2026-09-05,12:45,Lunch,lettuce,0.33,bowl,8,0.6,0.2,15,0.0,0,
+2026-09-05,13:55,Snack,macaroni with lean pork soup,70,g,105,5.0,0.5,15,0.5,0,
+2026-09-05,14:00,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,,300,1.25,0,2.0g plant sterol
+2026-09-05,16:20,Snack,white bread,1,piece,120,3.5,0.8,20,0.8,0,garden
+2026-09-05,16:25,Snack,edamame,6,spoon,65,6.5,1.0,55,0.35,0,shelled
+2026-09-05,18:30,Snack,hoshi fish snack,5,g,22,3.2,0.3,20,0.25,0,
+2026-09-05,19:20,Dinner,edamame,3,spoon,35,3.5,0.5,30,0.2,0,shelled
+2026-09-05,19:20,Dinner,carrot corn lean pork soup liquid only,2,bowl,60,4.0,0.5,40,0.5,0,lean pork for taste
+2026-09-05,19:20,Dinner,rice,1,bowl,240,4.5,0.5,10,0.1,0,
+2026-09-05,19:20,Dinner,okra,5,piece,20,1.5,0.5,40,0.0,0,
+2026-09-05,19:20,Dinner,steamed choi sum,0.5,bowl,22,1.8,0.7,40,0.1,0,
+2026-09-05,19:20,Dinner,chicken with bell pepper no skin,0.33,bowl,100,15.0,0.7,15,1.2,0,
+2026-09-05,19:20,Dinner,steamed egg with tofu 50:50,0.33,bowl,80,7.5,0.7,50,1.2,0,
+2026-09-05,19:20,Dinner,salmon,70,g,135,15.5,0.4,12,2.1,0,
