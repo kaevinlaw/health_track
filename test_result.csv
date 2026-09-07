@@ -1,0 +1,7 @@
+Date,Test_Category,Test_Name,Result,Unit,Reference_Range,Flag,Lab,Notes
+2026-08-22,Lipid,Total Cholesterol,6.2,mmol/L,< 5.2,High,HA,
+2026-08-22,Lipid,LDL-C,3.8,mmol/L,< 2.7,High,HA,
+2026-08-22,Lipid,HDL-C,1.8,mmol/L,> 1.0,Normal,HA,
+2026-08-22,Lipid,Non-HDL-C,4.4,mmol/L,< 3.4,High,HA,
+2026-08-22,Lipid,Triglycerides,1.2,mmol/L,< 1.7,Normal,HA,
+2026-08-22,Glucose,Fasting Glucose,5.5,mmol/L,< 5.6,Borderline,HA,
