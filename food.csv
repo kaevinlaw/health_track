@@ -292,7 +292,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-08-29,09:28,Snack,edamame,4,spoon,40,3.8,0.7,40,0.25,0,shelled
 2026-08-29,12:38,Snack,four seas seaweed,1,pack,20,1.5,1.5,20,0.05,0,3-4 sheets
 2026-08-29,12:38,Snack,almonds,5,piece,~40,1.25,~0.5,,0.2,,
-2026-08-29,13:05,Snack,envy apple,240,g,130,1.5,0.3,15,0.1,0,
+2026-08-29,13:05,Snack,envy apple,240,g,130,1.5,0.3,15,0,0,
 2026-08-29,13:10,Lunch,boiled choi sum,1,bowl,30,2.5,1.0,60,0.1,0,
 2026-08-29,13:10,Lunch,steamed lotus root & pork tenderloin patties,0.25,bowl,80,8.0,0.8,20,1.6,0,
 2026-08-29,13:10,Lunch,steamed egg with pork tenderloin,0.33,bowl,125,11.0,1.0,40,3.2,0,
@@ -314,7 +314,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-08-29,23:00,Snack,konjac glucomannan jelly,2,piece,15,0.2,0.1,10,0.0,0,high soluble fiber
 
 2026-08-30,10:10,Snack,edamame,4,spoon,40,3.8,0.7,40,0.25,0,shelled
-2026-08-30,10:10,Snack,envy apple,240,g,130,1.5,0.3,15,0.1,0,
+2026-08-30,10:10,Snack,envy apple,240,g,130,1.5,0.3,15,0,0,
 2026-08-30,10:10,Snack,steamed japanese potato,130,g,115,2.5,0.8,15,0.1,0,58+72g
 2026-08-30,11:00,Hydration,h2o,350,ml,0,0,0,0,0,0,
 2026-08-30,13:00,Snack,edamame,4,spoon,40,3.8,0.7,40,0.25,0,shelled
@@ -331,7 +331,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-08-30,19:30,Dinner,steamed sweet potato,130,g,110,2.0,0.6,30,0.1,0,60+70g
 2026-08-30,19:30,Dinner,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,,300,1.25,0,2.0g plant sterol
 2026-08-30,19:30,Hydration,h2o,300,ml,0,0,0,0,0,0,
-2026-08-30,20:40,Snack,envy apple,100,g,50,0.3,0.15,6,0.05,0,
+2026-08-30,20:40,Snack,envy apple,100,g,50,0.3,0.15,6,0,0,
 2026-08-30,21:10,Snack,hoshi fish snack,5,g,20,3.0,0.3,20,0.2,0,
 2026-08-30,22:00,Snack,okra,1,piece,4,0.3,0.1,10,0.0,0,
 2026-08-30,22:00,Hydration,h2o,200,ml,0,0,0,0,0,0,
@@ -468,7 +468,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-04,21:20,Snack,sansui tofu dessert,1,pack,136,4.4,0.8,60,0.66,0,220g; label per 100g: 62kcal; 2g protein; 1.5g total fat; 0.3g sat fat; 9.5g sugars
 2026-09-04,21:50,Snack,konjac glucomannan jelly,2,piece,7.5,0.1,0.05,5,0.0,0,
 
-2026-09-05,08:50,Snack,envy apple,240,g,130,1.5,0.3,15,0.1,0,
+2026-09-05,08:50,Snack,envy apple,240,g,130,1.5,0.3,15,0,0,
 2026-09-05,09:40,Breakfast,boiled okra,70,g,25,1.8,0.5,55,0.0,0,7 pieces
 2026-09-05,09:50,Breakfast,steamed potato,46,g,40,0.8,0.3,8,0.0,0,
 2026-09-05,10:15,Hydration,h2o,350,ml,0,0,0,0,0,0,
@@ -521,8 +521,8 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-06,21:20,Hydration,h2o,250,ml,0,0,0,0,0,0,
 2026-09-06,22:10,Beverage,asahi dry zero,350,ml,0,0,0,0,0,0,0.00% alcohol; 0 kcal; 0g sat fat; 0g sugar
 
-2026-09-07,07:45,Breakfast,edamame,28,g,34,3.3,0.6,18,0.2,0,shelled; muji coffee spoon total 28g
-2026-09-07,07:45,Breakfast,envy apple,290,g,145,1.0,0.3,15,0.1,0,whole weight 290g; edible 250-260g
+2026-09-07,07:45,Breakfast,edamame,28,g,34,3.3,0.6,18,0.2,0,shelled; muji coffee 4 spoon total 28g
+2026-09-07,07:45,Breakfast,envy apple,290,g,145,1.0,0.3,15,0,0,whole weight 290g; edible 250-260g
 2026-09-07,08:30,Breakfast,americano,240,ml,,0,,,0,~200,2 beans; filtered
 2026-09-07,09:30,Hydration,h2o,450,ml,0,0,0,0,0,0,
 2026-09-07,09:50,Hydration,h2o,450,ml,0,0,0,0,0,0,
@@ -538,3 +538,25 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-07,16:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
 2026-09-07,16:45,Snack,almonds,10,piece,~80-90,2.5-3,~1,,0.4,,
 
+2026-09-07,18:45,Dinner,white rice,1,bowl,240,4.5,0.5,10,0.1,0,
+2026-09-07,18:45,Dinner,pan-fried tofu,3,piece,160,13.0,1.5,80,1.6,0,
+2026-09-07,18:45,Dinner,okinawa okra,6,piece,25,1.8,0.6,50,0.0,0,
+2026-09-07,18:45,Dinner,chayote minced pork wood ear sprouts,0.5,bowl,90,8.0,0.6,25,1.3,0,合掌瓜 + 免治豬肉 + 木耳 + 少許芽菜
+2026-09-07,18:45,Dinner,eggplant,4,piece,40,1.5,0.3,15,0.2,0,
+2026-09-07,18:45,Dinner,boiled choi sum,0.5,bowl,18,1.5,0.5,30,0.05,0,
+2026-09-07,18:45,Dinner,watercress corn pork shank soup,1,bowl,40,3.0,0.4,25,0.6,0,
+2026-09-07,18:45,Dinner,lean pork shank from soup,25,g,45,6.5,0.4,5,0.6,0,no fat no bone
+2026-09-07,18:45,Dinner,chestnut from soup,1,piece,18,0.3,0.1,5,0.05,0,
+2026-09-07,18:45,Dinner,corn from soup,4,piece,35,1.2,0.2,5,0.1,0,
+2026-09-07,18:45,Dinner,watercress corn pork shank soup,1,bowl,35,2.5,0.3,20,0.5,0,second bowl
+2026-09-07,21:00,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0.0,0,
+2026-09-07,21:15,Snack,edamame,1,spoon,12,1.1,0.2,12,0.06,0,shelled
+2026-09-07,22:00,Snack,maxim sourdough,10,g,28,1.0,0.2,5,0.05,0,sat fat \~0.5g/100g
+2026-09-07,22:00,Hydration,h2o,350,ml,0,0,0,0,0,0,
+
+2026-09-08,09:00,Breakfast,okra,3,piece,16,1.2,0.4,35,0.0,0,47g
+2026-09-08,08:35,Breakfast,envy apple,267.5,g,135,1.0,0.3,12,0,0,whole weight 267.5g; edible \~230-240g
+2026-09-08,08:40,Breakfast,americano,240,ml,5,0,0,0,0,50,2 beans; filtered
+2026-09-08,09:35,Breakfast,organic cereal bread with walnut,36,g,121,3.2,0.4,9,0.43,0,label per 100g: 335kcal protein 8.9g; total fat 13.1g; sat fat 1.2g
+2026-09-08,10:18,Breakfast,edamame,28,g,34,3.3,0.6,18,0.2,0,shelled; muji coffee 4 spoon total 28g
+2026-09-08,10:25,Beverage,top soya organic extra rich soymilk no sugar,500,ml,205,19.0,1.5,50,1.5,0,label per 100ml: 41kcal; 3.8g protein; 2.0g total fat; 0.3g sat fat; 0.5g sugar
