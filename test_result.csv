@@ -1,7 +1,58 @@
 Date,Test_Category,Test_Name,Result,Unit,Reference_Range,Flag,Lab,Notes
-2026-08-22,Lipid,Total Cholesterol,6.2,mmol/L,< 5.2,High,HA,
-2026-08-22,Lipid,LDL-C,3.8,mmol/L,< 2.7,High,HA,
+2026-08-22,Lipid,Total Cholesterol,6.2,mmol/L,<5.0,High,HA,ESC/EAS desirable
+2026-08-22,Lipid,LDL-C,3.8,mmol/L,<3.0,High,HA,ESC/EAS desirable;
 2026-08-22,Lipid,HDL-C,1.8,mmol/L,> 1.0,Normal,HA,
-2026-08-22,Lipid,Non-HDL-C,4.4,mmol/L,< 3.4,High,HA,
-2026-08-22,Lipid,Triglycerides,1.2,mmol/L,< 1.7,Normal,HA,
-2026-08-22,Glucose,Fasting Glucose,5.5,mmol/L,< 5.6,Borderline,HA,
+2026-08-22,Lipid,Non-HDL-C,4.4,mmol/L,<3.8,High,HA,ESC/EAS desirable
+2026-08-22,Lipid,Triglycerides,1.2,mmol/L,<1.7,Normal,HA,
+
+2026-08-22,Electrolyte,Sodium,142,mmol/L,136-145,Normal,HA,
+2026-08-22,Electrolyte,Potassium,4.0,mmol/L,3.5-5.1,Normal,HA,
+2026-08-22,Renal,Urea,6.5,mmol/L,2.8-7.2,Normal,HA,
+2026-08-22,Renal,Creatinine,88,umol/L,64-104,Normal,HA,
+2026-08-22,Protein,Total Protein,78,g/L,64-83,Normal,HA,
+2026-08-22,Protein,Albumin,48.3,g/L,35-52,Normal,HA,
+2026-08-22,Protein,Globulin,30,g/L,26-41,Normal,HA,
+2026-08-22,Liver,Total Bilirubin,10,umol/L,5-21,Normal,HA,
+2026-08-22,Liver,ALP,56,U/L,30-120,Normal,HA,
+2026-08-22,Liver,ALT,19,U/L,<50,Normal,HA,
+2026-08-22,Mineral,Calcium,2.54,mmol/L,2.10-2.55,Normal,HA,near upper limit
+2026-08-22,Mineral,Phosphate,1.15,mmol/L,0.81-1.45,Normal,HA,
+2026-08-22,Mineral,Magnesium,1.00,mmol/L,0.73-1.06,Normal,HA,
+2026-08-22,Muscle,CK,371,U/L,<171,High,HA,likely exercise-related
+2026-08-22,Glucose,Spot Glucose,7.6,mmol/L,-,High,HA,non-fasting
+2026-08-22,Glucose,Fasting Glucose,5.5,mmol/L,<5.6,Borderline,HA,
+
+2026-08-22,Thyroid,TSH,1.64,mIU/L,0.17-4.37,Normal,HA,
+
+2021-01-25,Cardiac,hsTroponin I,<5.6,ng/L,<19.8 (male 99th),Normal,HA,repeat
+
+2021-01-25,Thyroid,TSH,1.54,mIU/L,0.17-4.37,Normal,HA,
+
+2021-01-24,Electrolyte,Sodium,142,mmol/L,136-145,Normal,HA,chest pain prolonged QTc
+2021-01-24,Electrolyte,Potassium,4.0,mmol/L,3.5-5.1,Normal,HA,
+2021-01-24,Renal,Urea,6.5,mmol/L,2.8-7.2,Normal,HA,
+2021-01-24,Renal,Creatinine,88,umol/L,64-104,Normal,HA,
+2021-01-24,Protein,Total Protein,78,g/L,64-83,Normal,HA,
+2021-01-24,Protein,Albumin,48.3,g/L,35-52,Normal,HA,
+2021-01-24,Protein,Globulin,30,g/L,26-41,Normal,HA,
+2021-01-24,Liver,Total Bilirubin,10,umol/L,5-21,Normal,HA,
+2021-01-24,Liver,ALP,56,U/L,30-120,Normal,HA,
+2021-01-24,Liver,ALT,19,U/L,<50,Normal,HA,
+2021-01-24,Mineral,Calcium,2.54,mmol/L,2.10-2.55,Normal,HA,
+2021-01-24,Mineral,Phosphate,1.15,mmol/L,0.81-1.45,Normal,HA,
+2021-01-24,Mineral,Magnesium,1.00,mmol/L,0.73-1.06,Normal,HA,
+2021-01-24,Muscle,CK,371,U/L,<171,High,HA,
+2021-01-24,Glucose,Spot Glucose,7.6,mmol/L,-,High,HA,non-fasting
+
+2021-01-24,Haematology,WBC,7.3,x10^9/L,3.7-9.3,Normal,HA,
+2021-01-24,Haematology,RBC,4.7,x10^12/L,4.4-5.8,Normal,HA,
+2021-01-24,Haematology,HGB,13.9,g/dL,13.5-17.3,Normal,HA,
+2021-01-24,Haematology,HCT,0.41,L/L,0.40-0.50,Normal,HA,
+2021-01-24,Haematology,MCV,87.2,fL,80-96,Normal,HA,
+2021-01-24,Haematology,MCH,29.8,pg,26-33,Normal,HA,
+2021-01-24,Haematology,MCHC,34.2,g/dL,32-35.6,Normal,HA,
+2021-01-24,Haematology,RDW,13.2,%,<15.8,Normal,HA,
+2021-01-24,Haematology,PLT,202,x10^9/L,160-420,Normal,HA,
+2021-01-24,Haematology,MPV,12.8,fL,8.1-11.5,High,HA,
+
+2021-01-24,Cardiac,hsTroponin I,<5.6,ng/L,<19.8 (male 99th),Normal,HA,chest pain prolonged QTc
