@@ -341,7 +341,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-08-31,14:40,Lunch,steamed japanese potato,130,g,115,2.5,0.8,15,0.1,0,
 2026-08-31,15:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
 2026-08-31,16:15,Snack,almonds,5,piece,40,1.25,0.5,,0.2,,
-2026-08-31,16:20,Snack,banana,1,piece,115,1.3,,,0.1,,
+2026-08-31,16:20,Snack,banana,1,piece,115,1.3,xx,xx,0.1,,
 2026-08-31,16:30,Hydration,h2o,450,ml,0,0,0,0,0,0,
 2026-08-31,17:08,Snack,almonds,5,piece,40,1.25,0.5,,0.2,,
 2026-08-31,18:45,Dinner,beef trimming vegetable soup liquid only,1,bowl,40,2.5,0.4,25,0.4,0,beef only for taste
@@ -386,7 +386,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-02,08:45,Breakfast,envy apple,257,g,135,0.9,,,0,,
 2026-09-02,09:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
 2026-09-02,09:25,Breakfast,almonds,5,piece,40,1.25,0.5,,0.2,,
-2026-09-02,09:30,Breakfast,banana,130,g,115,1.3,,,0.1,,
+2026-09-02,09:30,Breakfast,banana,130,g,115,1.3,xx,xx,0.1,,
 2026-09-02,09:50,Hydration,h2o,450,ml,0,0,0,0,0,0,
 2026-09-02,11:20,Breakfast,steamed japanese potato,70,g,63,1.1,0.4,12,0,0,
 2026-09-02,11:30,Hydration,h2o,900,ml,0,0,0,0,0,0,
@@ -411,7 +411,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-03,09:50,Hydration,h2o,450,ml,0,0,0,0,0,0,
 2026-09-03,11:26,Snack,edamame,4,spoon,40,3.8,0.7,40,0.25,0,shelled
 2026-09-03,11:45,Hydration,h2o,240,ml,0,0,0,0,0,0,
-2026-09-03,12:15,Snack,banana,130,g,115,1.3,,,0.1,,
+2026-09-03,12:15,Snack,banana,130,g,115,1.3,xx,xx,0.1,,
 2026-09-03,12:23,Hydration,h2o,450,ml,0,0,0,0,0,0,
 2026-09-03,13:30,Hydration,h2o,600,ml,0,0,0,0,0,0,
 2026-09-03,14:40,Lunch,okra,6,piece,23,1.8,0.7,55,0,0,
@@ -564,3 +564,17 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-08,21:30,Snack,nutritionist mooncake,25.2,g,120,2.8,0.5,15,1.8,0,half; pine nut + pumpkin seed + more lotus paste; plant oil; not lard
 2026-09-08,22:00,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
 2026-09-08,22:00,Hydration,h2o,350,ml,0,0,0,0,0,0,
+2026-09-09,08:00,Breakfast,envy apple,270,g,135,1,0.3,12,0,0,whole weight 267.5g; edible \~230-240g
+2026-09-09,08:00,Breakfast,americano,240,ml,5,0,0,0,0,50,2 beans; filtered
+2026-09-09,08:30,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-09,08:55,Breakfast,edamame,30,g,38,3.6,0.7,22,0.22,0,shelled; 4 muji coffee spoon total 30g
+2026-09-09,09:45,Breakfast,steamed potato,65.4,g,57,1.2,0.2,5,0.0,0,
+2026-09-08,09:50,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-09,12:25,Snack,banana,115,g,102,1.3,0.3,6,0.1,0,whole weight; edible \~100g
+2026-09-09,13:20,Hydration,h2o,1500,ml,0,0,0,0,0,0,
+2026-09-09,14:30,Lunch,boiled okra,4,piece,20,1.5,0.6,45,0.0,0,60.7g
+2026-09-09,14:40,Lunch,avocado,63.5,g,102,1.3,0.4,8,1.3,0,half; weighted without seed
+2026-09-09,14:30,Lunch,choco milk low fat,230,ml,155,5.7,,,2.1,,low fat
+2026-09-09,14:45,Lunch,sardine in salted water,70,g,47,11.3,1.1,40,0,0,Donki; label per 100g: 67.1kcal; 16.1g protein; 0.4g total fat; 0g sat fat
+2026-09-09,15:00,Lunch,banana,115,g,102,1.3,0.3,6,0.1,0,whole weight; edible \~100g
+2026-09-09,09:45,Breakfast,steamed potato,130,g,113,2.5,0.4,5,0.0,0,
