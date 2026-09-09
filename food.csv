@@ -574,7 +574,18 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-09,13:20,Hydration,h2o,1500,ml,0,0,0,0,0,0,
 2026-09-09,14:30,Lunch,boiled okra,4,piece,20,1.5,0.6,45,0.0,0,60.7g
 2026-09-09,14:40,Lunch,avocado,63.5,g,102,1.3,0.4,8,1.3,0,half; weighted without seed
-2026-09-09,14:30,Lunch,choco milk low fat,230,ml,155,5.7,,,2.1,,low fat
+2026-09-09,14:30,Lunch,choco milk low fat,236,ml,155,5.7,0.2,410,2.1,0,low fat; Label per serving: 155 kcal; 5.7g protien; total fat 5.7g; sat fat 2.1g; trans fat 0g; cholesterol 12mg; carbo 25.5g; sugar 25.3g; sodium 215mg; calcium 401mg; vit d 2.4ug
 2026-09-09,14:45,Lunch,sardine in salted water,70,g,47,11.3,1.1,40,0,0,Donki; label per 100g: 67.1kcal; 16.1g protein; 0.4g total fat; 0g sat fat
 2026-09-09,15:00,Lunch,banana,115,g,102,1.3,0.3,6,0.1,0,whole weight; edible \~100g
-2026-09-09,09:45,Breakfast,steamed potato,130,g,113,2.5,0.4,5,0.0,0,
+2026-09-09,15:45,Lunch,steamed potato,130,g,113,2.5,0.4,5,0.0,0,
+2026-09-09,16:45,Snack,edamame,56,g,68,6.6,1.2,36,0.4,0,shelled; 8 muji coffee spoon total 28g
+2026-09-09,16:45,Lunch,vitasoy calci plus plant sterol soya milk,250,ml,115,5,,300,1.25,0,2.0g plant sterol
+2026-09-09,17:10,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-09,18:50,Dinner,boiled okra,4,piece,33,2.0,0.7,60,0.0,0,99g
+2026-09-09,18:50,Dinner,bitter melon with egg,77,g,60,4.5,0.6,30,0.8,0,mostly bitter melon; very little egg
+2026-09-09,18:50,Dinner,stir-fried cucumber chicken fillet mushroom,127,g,145,22.0,0.8,15,1.1,0,chicken fillet main; little mushroom
+2026-09-09,18:50,Dinner,boiled choi sum,108.6,g,25,2.5,0.8,80,0.05,0,
+2026-09-09,18:50,Dinner,cashew lean pork corn carrot soup,2,bowl,90,6.0,0.5,30,0.8,0,soup mainly; cashew + lean pork for flavour
+2026-09-09,20:45,Snack,watermelon,200,g,60,1.2,0.3,14,0.0,0,
+2026-09-09,21:10,Snack,imuraya tofu dessert,200,g,126,5.6,0.4,20,0.4,0,per 100g: 63kcal, protein 2.8g, sat fat 0.2g
+2026-09-09,21:30,Hydration,h2o,200,ml,0,0,0,0,0,0,
