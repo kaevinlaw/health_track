@@ -579,7 +579,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-09,15:00,Lunch,banana,115,g,102,1.3,0.3,6,0.1,0,whole weight; edible \~100g
 2026-09-09,15:45,Lunch,steamed potato,130,g,113,2.5,0.4,5,0.0,0,
 2026-09-09,16:45,Snack,edamame,56,g,68,6.6,1.2,36,0.4,0,shelled; 8 muji coffee spoon total 28g
-2026-09-09,16:45,Lunch,vitasoy calci plus plant sterol soya milk,250,ml,115,5,,300,1.25,0,2.0g plant sterol
+2026-09-09,16:45,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5,,300,1.25,0,2.0g plant sterol
 2026-09-09,17:10,Hydration,h2o,450,ml,0,0,0,0,0,0,
 2026-09-09,18:50,Dinner,boiled okra,4,piece,33,2.0,0.7,60,0.0,0,99g
 2026-09-09,18:50,Dinner,bitter melon with egg,77,g,60,4.5,0.6,30,0.8,0,mostly bitter melon; very little egg
@@ -589,3 +589,31 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-09,20:45,Snack,watermelon,200,g,60,1.2,0.3,14,0.0,0,
 2026-09-09,21:10,Snack,imuraya tofu dessert,200,g,126,5.6,0.4,20,0.4,0,per 100g: 63kcal, protein 2.8g, sat fat 0.2g
 2026-09-09,21:30,Hydration,h2o,200,ml,0,0,0,0,0,0,
+
+2026-09-10,08:15,Breakfast,corn from soup,243.5,g,120,3.5,0.5,8,0.2,0,edible portion
+2026-09-10,08:41,Breakfast,avocado,50.8,g,81,1.0,0.3,6,1.05,0,half portion eaten
+2026-09-10,09:00,Breakfast,americano,240,ml,5,0,0,0,0,50,2 beans; filtered
+2026-09-10,09:10,Breakfast,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-09-10,09:16,Breakfast,envy apple,285,g,140,1.1,0.3,13,0.1,0,whole weight
+2026-09-10,11:45,Snack,quaker instant oatmeal,27.7,g,102,4.2,1.2,15,0.47,0,dry weight; label per 100g 367kcal; protein 15.2g; total fat 8.6g; saturated fat 1.7g; cholesterol 0g; total carbo 62.0g; dietary fiber 10g; soluble fiber 4.3g; beta-glucan 4g; insoluble fiber 5.7g; sugar 1.3g sodium 3.7g; iron 4.5mg; magnesium 104mg; phosphorus 337mg; zinc 2.6mg
+2026-09-10,11:45,Snack,edamame,15,g,18,1.8,0.3,10,0.1,0,42.7-27.7g
+2026-09-10,12:20,Beverage,top soya soymilk no sugar,500,ml,150,10.0,0.8,130,1.0,0,label per 100ml: 26.3kcal; 2.7g protein; 1.5g total fat; 0.2g sat fat; 0.5g sugar; dietary fiber 1.2g; sodium 3.5mg
+2026-09-10,12:20,Snack,banana,100,g,89,1.1,0.3,5,0.1,0,small banana
+2026-09-10,13:30,Hydration,h2o,600,ml,0,0,0,0,0,0,
+2026-09-10,14:30,Lunch,boiled okra,4,piece,25,1.8,0.6,50,0.0,0,
+2026-09-10,14:40,Lunch,stir-fried cucumber chicken fillet,111,g,145,25.0,0.8,12,1.2,0,from yesterday leftover
+2026-09-10,14:40,Lunch,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+2026-09-10,15:00,Lunch,steamed japanese sweet potato,200,g,174,2.6,0.6,30,0.0,0,steamed then refrigerated
+2026-09-10,16:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-10,19:30,Dinner,boiled okra,6,piece,34,2.0,0.7,60,0.0,0,102g
+2026-09-10,19:30,Dinner,lotus root meat patty,49.3,g,85,6.5,0.6,15,1.4,0,
+2026-09-10,19:30,Dinner,salmon steamed egg,113.4,g,155,13.0,1.0,45,2.6,0,salmon mince:egg \~60:40
+2026-09-10,19:30,Dinner,stir-fried onion chicken fillet,109,g,140,24.0,0.7,12,1.1,0,
+2026-09-10,19:30,Dinner,boiled choi sum,81.3,g,20,2.0,0.6,60,0.05,0,2/3 bowl
+2026-09-10,19:30,Dinner,cashew lean pork corn carrot soup with carrot,0.5,bowl,40,2.5,0.3,20,0.4,0,yesterday soup + 2 carrot pieces
+2026-09-10,19:30,Dinner,tomato potato carrot tofu fish soup,1,bowl,70,6.0,0.5,30,0.5,0,bigeye + grouper; + 2 small tofu cubes
+2026-09-10,20:45,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-10,21:00,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
+2026-09-10,22:10,Snack,four seas seaweed,1,pack,20,1.5,1.5,20,0.05,0,3-4 sheets
+2026-09-10,22:45,Hydration,h2o,450,ml,0,0,0,0,0,0,
+
