@@ -586,6 +586,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-09,18:50,Dinner,stir-fried cucumber chicken fillet mushroom,127,g,145,22.0,0.8,15,1.1,0,chicken fillet main; little mushroom
 2026-09-09,18:50,Dinner,boiled choi sum,108.6,g,25,2.5,0.8,80,0.05,0,
 2026-09-09,18:50,Dinner,cashew lean pork corn carrot soup,2,bowl,90,6.0,0.5,30,0.8,0,soup mainly; cashew + lean pork for flavour
+2026-09-09,18:50,Dinner,white rice,1,bowl,240,4.5,0.5,10,0.1,0,
 2026-09-09,20:45,Snack,watermelon,200,g,60,1.2,0.3,14,0.0,0,
 2026-09-09,21:10,Snack,imuraya tofu dessert,200,g,126,5.6,0.4,20,0.4,0,per 100g: 63kcal, protein 2.8g, sat fat 0.2g
 2026-09-09,21:30,Hydration,h2o,200,ml,0,0,0,0,0,0,
@@ -612,6 +613,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-10,19:30,Dinner,boiled choi sum,81.3,g,20,2.0,0.6,60,0.05,0,2/3 bowl
 2026-09-10,19:30,Dinner,cashew lean pork corn carrot soup with carrot,0.5,bowl,40,2.5,0.3,20,0.4,0,yesterday soup + 2 carrot pieces
 2026-09-10,19:30,Dinner,tomato potato carrot tofu fish soup,1,bowl,70,6.0,0.5,30,0.5,0,bigeye + grouper; + 2 small tofu cubes
+2026-09-10,19:30,Dinner,white rice,1,bowl,240,4.5,0.5,10,0.1,0,
 2026-09-10,20:45,Hydration,h2o,450,ml,0,0,0,0,0,0,
 2026-09-10,21:00,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
 2026-09-10,22:10,Snack,four seas seaweed,1,pack,20,1.5,1.5,20,0.05,0,3-4 sheets
@@ -627,7 +629,6 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-11,12:20,Hydration,h2o,480,ml,0,0,0,0,0,0,
 2026-09-11,13:30,Hydration,h2o,1200,ml,0,0,0,0,0,0,
 2026-09-11,14:20,Beverage,top soya soymilk no sugar,500,ml,150,10.0,0.8,130,1.0,0,label per 100ml: 26.3kcal; 2.7g protein; 1.5g total fat; 0.2g sat fat; 0.5g sugar; dietary fiber 1.2g; sodium 3.5mg
-
 2026-09-11,14:30,Lunch,stir-fried onion chicken fillet,114,g,147,25.0,0.8,12,1.15,0,
 2026-09-11,14:45,Lunch,edamame,35,g,42,4.1,0.7,22,0.25,0,5 muji coffee spoon estimated
 2026-09-11,14:55,Lunch,instant chicken breast,88.7,g,95,15.9,0.7,8,0.62,0,removed skin/oil; label per 100g: 107.3kcal; protein 17.9g; total fat 2.4g; sat fat 0.7g; carbo 3.3g; sugar 0g; sodium 406mg
@@ -648,3 +649,75 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-11,21:20,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
 2026-09-11,22:13,Hydration,h2o,350,ml,0,0,0,0,0,0,
 
+2026-09-12,07:25,Breakfast,edamame,85.5,g,105,10.0,1.5,45,0.6,0,10 coffee spoon; shelled
+2026-09-12,07:45,Breakfast,instant coffee,350,ml,5,0,0,0,0,50,ucc 114 1.5 spoon
+2026-09-12,09:00,Breakfast,envy apple,285,g,140,1.1,0.3,13,0.1,0,whole weight; edible 240g
+2026-09-12,10:30,Breakfast,quaker instant oatmeal,30,g,110,4.6,1.3,18,0.51,0,dry weight
+2026-09-12,10:45,Beverage,top soya soymilk no sugar,480,ml,126,13.0,0.8,125,1.0,0,label per 100ml: 26.3kcal; 2.7g protein; 1.5g total fat; 0.2g sat fat; 0.5g sugar; dietary fiber 1.2g; sodium 3.5mg
+2026-09-12,13:00,Lunch,boiled okra,6,piece,31,1.9,0.6,50,0.0,0,93g
+2026-09-12,13:00,Lunch,steamed japanese sweet potato,146,g,127,1.9,0.5,20,0.0,0,
+2026-09-12,13:00,Lunch,stir-fried zucchini chicken fillet,73.5,g,95,15.0,0.5,10,0.75,0,leftover
+2026-09-12,14:00,Lunch,boiled spinach with tiny lean pork,106.5,g,25,3.0,0.8,60,0.1,0,from kids noodle soup; rinsed; very little pork
+2026-09-12,14:00,Beverage,instant coffee,350,ml,5,0,0,0,0,50,ucc 114 1.5 spoon
+2026-09-12,14:20,Hydration,h2o,350,ml,0,0,0,0,0,0,
+2026-09-12,15:00,Dinner,chayote from soup,49.5,g,10,0.5,0.15,7.5,0.0,0,soup solids
+2026-09-12,16:30,Snack,shanghai noodles with tiny lean minced pork,0.6,bowl,160,7.5,0.5,15,0.5,0,3/5 bowl; very little lean pork; no oil
+2026-09-12,17:00,Snack,watermelon,200,g,60,1.0,0.3,12,0.0,0,approx 12cm diameter x 2cm thick
+2026-09-12,17:30,Hydration,h2o,700,ml,0,0,0,0,0,0,
+2026-09-12,19:00,Dinner,lobster glass noodle pot,1.25,bowl,335,20.0,1.5,40,3.3,0,1-1.5 bowl; oil visible on noodles
+2026-09-12,19:00,Dinner,bitter melon scallop scrambled egg,0.67,bowl,200,15.0,1.0,20,2.5,0,2/3 bowl; little oil; juiciness mainly from egg
+2026-09-12,19:00,Dinner,steamed grouper,2,large piece,200,32.0,0.8,20,1.2,0,two large pieces; skin not emphasized
+2026-09-12,19:00,Dinner,shrimp balls rinsed,4,piece,45,11.0,0.2,10,0.2,0,sauce washed off; no yi mein
+2026-09-12,19:00,Dinner,dried vegetable pork bone soup,1,bowl,40,4.0,0.3,15,0.4,0,soup only; little oil; saw bones + chicken foot
+2026-09-12,21:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+
+2026-09-13,08:50,Breakfast,steamed purple sweet potato,75,g,65,1.0,0.2,10,0.0,0,
+2026-09-13,09:10,Breakfast,edamame,46.7,g,57,5.5,0.8,25,0.3,0,8 coffee spoon
+2026-09-13,09:10,Breakfast,boiled okra,5,piece,22,1.4,0.4,40,0.0,0,67g
+2026-09-13,10:00,Beverage,top soya soymilk no sugar,480,ml,126,13.0,0.8,125,1.0,0,not extra rich
+2026-09-13,10:00,Hydration,h2o,350,ml,0,0,0,0,0,0,
+2026-09-13,12:15,Lunch,har gow shrimp dumpling,2,piece,90,6.0,0.5,15,0.6,0,whole
+2026-09-13,12:15,Lunch,shrimp vegetable dumpling,2,piece,85,5.0,0.4,15,0.5,0,whole
+2026-09-13,12:15,Lunch,jellyfish with cucumber,0.67,bowl,50,4.0,0.5,40,0.3,0,2/3 bowl
+2026-09-13,12:15,Lunch,fish soup with fish tofu wood ear yam vegetables,1,portion,80,6.0,0.5,30,0.4,0,clear soup
+2026-09-13,12:15,Lunch,choi sum from soup,3,piece,15,1.5,0.3,30,0.0,0,picked from soup
+2026-09-13,12:15,Lunch,char siu rice roll,2,piece,160,6.0,0.8,20,2.0,0,2 pieces
+2026-09-13,12:15,Lunch,pan-fried radish cake,1,piece,70,1.5,0.3,10,1.2,0,approx 2x2x2cm
+2026-09-13,12:15,Lunch,sesame cake,1,piece,80,1.5,0.4,15,0.8,0,diameter 2.8cm length 5cm
+2026-09-13,12:15,Hydration,h2o,500,ml,0,0,0,0,0,0,
+2026-09-13,15:00,Snack,steamed purple sweet potato,40,g,35,0.5,0.1,5,0.0,0,
+2026-09-13,15:00,Hydration,h2o,150,ml,0,0,0,0,0,0,
+2026-09-13,15:30,Beverage,asahi wonda black coffee,400,ml,5,0,0,0,0,80,
+2026-09-13,16:30,Snack,konjac glucomannan jelly,2,piece,15,0.2,0.1,10,0,0,high soluble fiber
+2026-09-13,18:00,Dinner,fish fillet burger no sauce,1,piece,300,16.0,1.5,30,3.0,0,sauce removed
+2026-09-13,18:00,Dinner,corn cup,1,cup,90,2.5,0.4,15,0.4,0,
+2026-09-13,18:00,Beverage,coke zero,1,serving,2,0,0,0,0,0,
+2026-09-13,18:00,Dinner,french fries,1,cm,20,0.3,0.2,5,0.0,0,very small 1cm piece; sat fat \~0.0075g rounds to 0
+2026-09-13,20:15,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+2026-09-13,21:00,Snack,sesame ginger candy,3,piece,45,0.8,0.3,12,0.05,0,label per 100g: 1545kJ; protein 0g; total fat 1.7g; sat fat 0g; trans fat 0g; carbo 87.2; sugar 30g; sodium 6mg
+2026-09-13,22:00,Snack,envy apple,285,g,140,1.1,0.3,13,0.1,0,whole weight; edible 240g
+
+2026-09-14,08:00,Breakfast,envy apple,285,g,140,1.1,0.3,13,0.1,0,whole weight; edible 240g
+2026-09-14,08:20,Breakfast,boiled okra,4,piece,11,0.7,0.2,20,0.0,0,32.4g
+2026-09-14,08:25,Breakfast,expresso,120,ml,5,0,0,0,0,50,2 beans; filtered
+2026-09-14,09:40,Breakfast,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-09-14,09:50,Breakfast,steamed purple potato,98.4,g,85,1.3,0.4,15,0.0,0,steamed then refrigerated
+2026-09-14,10:20,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-14,11:30,Beverage,top soya organic extra rich soymilk no sugar,500,ml,205,19,1.5,50,1.5,0,label per 100ml: 41kcal; 3.8g protein; 2.0g total fat; 0.3g sat fat; 0.5g sugar
+2026-09-14,14:30,Lunch,boiled okra,4,piece,15,1.0,0.3,25,0.0,0,46g
+2026-09-14,14:35,Lunch,edamame,49,g,60,5.8,1.0,30,0.35,0,7 muji coffee spoon estimated
+2026-09-14,14:38,Lunch,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+2026-09-14,14:45,Lunch,steamed purple potato,191,g,165,2.5,0.7,25,0.0,0,steamed then refrigerated
+2026-09-14,16:20,Hydration,h2o,1000,ml,0,0,0,0,0,0,
+2026-09-14,18:50,Dinner,boiled okra,5,piece,26,1.6,0.5,40,0.0,0,78.7g
+2026-09-14,18:50,Dinner,pan-fried pork shrimp cake,40,g,85,8.0,0.6,15,1.8,0,
+2026-09-14,18:50,Dinner,steamed tofu egg,181,g,120,12.0,1.0,80,1.5,0,tofu:egg ~2:1
+2026-09-14,18:50,Dinner,pan-fried salmon no skin bone fat,25.5,g,52,7.2,0.3,10,0.75,0,weighed 25.5g
+2026-09-14,18:50,Dinner,boiled spinach,58.3,g,14,1.7,0.5,55,0.05,0,
+2026-09-14,18:50,Dinner,radish from soup,45,g,9,0.4,0.2,15,0.0,0,soup solids
+2026-09-14,18:50,Dinner,corn from soup,114.6,g,100,3.5,0.5,15,0.3,0,weighed 114.6g
+2026-09-14,18:50,Dinner,lean pork from soup,39.1,g,55,9.0,0.5,10,0.8,0,weighed 39.1g
+2026-09-14,18:50,Dinner,soup liquid,2,bowl,40,3.0,0.3,20,0.4,0,2 bowls
+2026-09-14,18:50,Dinner,white rice,1,bowl,240,4.5,0.3,5,0.1,0,
+2026-09-14,21:00,Snack,konjac glucomannan jelly,2,piece,7.5,0.1,0.05,5,0,0,lemon salt
+2026-09-14,22:00,Hydration,h2o,350,ml,0,0,0,0,0,0,
