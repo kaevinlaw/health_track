@@ -588,7 +588,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-09,18:50,Dinner,cashew lean pork corn carrot soup,2,bowl,90,6.0,0.5,30,0.8,0,soup mainly; cashew + lean pork for flavour
 2026-09-09,18:50,Dinner,white rice,1,bowl,240,4.5,0.5,10,0.1,0,
 2026-09-09,20:45,Snack,watermelon,200,g,60,1.2,0.3,14,0.0,0,
-2026-09-09,21:10,Snack,imuraya tofu dessert,200,g,126,5.6,0.4,20,0.4,0,per 100g: 63kcal, protein 2.8g, sat fat 0.2g
+2026-09-09,21:10,Snack,imuraya tofu dessert,200,g,126,5.6,0.4,20,0.4,0,label per 100g: 63kcal; protein 2.8g; total fat 1.7g; sat fat 0.2g; carbo 9.3g; sugar 8.1g; sodium 3.3mg
 2026-09-09,21:30,Hydration,h2o,200,ml,0,0,0,0,0,0,
 
 2026-09-10,08:15,Breakfast,corn from soup,243.5,g,120,3.5,0.5,8,0.2,0,edible portion
@@ -642,7 +642,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-11,18:30,Dinner,stir-fried zucchini chicken fillet,89.5,g,115,18.0,0.6,12,0.9,0,
 2026-09-11,18:30,Dinner,white rice,1,bowl,240,4.5,0.3,5,0.1,0,
 2026-09-11,18:30,Dinner,boiled choi sum,76.5,g,18,1.8,0.5,55,0.05,0,half bowl
-2026-09-11,18:30,Dinner,pumpkin meat patty,1,bite,35,2.5,0.3,8,0.7,0,HK$1 size, 1cm thick
+2026-09-11,18:30,Dinner,pumpkin meat patty,1,bite,35,2.5,0.3,8,0.7,0,HK$1 size; 1cm thick
 2026-09-11,18:30,Dinner,chayote from soup,101,g,20,1.0,0.3,15,0.0,0,soup solids
 2026-09-11,18:30,Dinner,japanese tofu from soup,17,g,12,1.3,0.2,10,0.15,0,soup solids
 2026-09-11,20:30,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
@@ -674,7 +674,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-13,08:50,Breakfast,steamed purple sweet potato,75,g,65,1.0,0.2,10,0.0,0,
 2026-09-13,09:10,Breakfast,edamame,46.7,g,57,5.5,0.8,25,0.3,0,8 coffee spoon
 2026-09-13,09:10,Breakfast,boiled okra,5,piece,22,1.4,0.4,40,0.0,0,67g
-2026-09-13,10:00,Beverage,top soya soymilk no sugar,480,ml,126,13.0,0.8,125,1.0,0,not extra rich
+2026-09-13,10:00,Beverage,top soya soymilk no sugar,480,ml,126,13.0,0.8,125,1.0,0,label per 100ml: 26.3kcal; 2.7g protein; 1.5g total fat; 0.2g sat fat; 0.5g sugar; dietary fiber 1.2g; sodium 3.5mg
 2026-09-13,10:00,Hydration,h2o,350,ml,0,0,0,0,0,0,
 2026-09-13,12:15,Lunch,har gow shrimp dumpling,2,piece,90,6.0,0.5,15,0.6,0,whole
 2026-09-13,12:15,Lunch,shrimp vegetable dumpling,2,piece,85,5.0,0.4,15,0.5,0,whole
@@ -747,6 +747,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-15,19:50,Dinner,soup liquid tomato potato beef,2,bowl,40,3.0,0.3,20,0.4,0,liquid only; minor beef trimmings
 2026-09-15,20:00,Snack,sesame ginger candy,2,piece,30,0.53,0.2,8,0.03,0,label per 100g: 1545kJ; protein 0g; total fat 1.7g; sat fat 0g; trans fat 0g; carbo 87.2; sugar 30g; sodium 6mg
 2026-09-15,20:30,Snack,konjac glucomannan jelly,2,piece,7.5,0.1,0.05,5,0,0,
+2026-09-15,20:45,Beverage,asahi dry zero,350,ml,0,0,0,0,0,0,0.00% alcohol; 0 kcal; 0g sat fat; 0g sugar
 2026-09-15,21:30,Snack,four seas seaweed,1,pack,20,1.5,1.5,20,0.05,0,3-4 sheets
 2026-09-15,21:45,Snack,edamame,49,g,60,5.8,1.0,30,0.35,0,7 coffee spoon (home)
 2026-09-15,22:00,Hydration,h2o,350,ml,0,0,0,0,0,0,
@@ -754,5 +755,32 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-16,05:10,Beverage,top soya organic extra rich soymilk no sugar,500,ml,205,19,1.5,50,1.5,0,label per 100ml: 41kcal; 3.8g protein; 2.0g total fat; 0.3g sat fat; 0.5g sugar
 2026-09-16,07:45,Breakfast,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
 2026-09-16,07:45,Breakfast,envy apple,285,g,140,1.1,0.3,13,0.1,0,whole weight; edible 240g
-2026-09-16,07:45,Breakfast,banana,142,g,xx,xx,xx,xx,xx,0,whole weight
-2026-09-16,08:10,Breakfast,americano,240,ml,xx,0,0,0,0,xx,3 beans; filtered
+2026-09-16,07:45,Breakfast,banana,142,g,126,1.5,0.4,15,0.1,0,whole weight
+2026-09-16,08:10,Breakfast,americano,240,ml,5,0,0,0,0,75,3 beans; filtered
+
+2026-09-16,10:15,Breakfast,steamed sweet potato,98,g,85,1.3,0.4,15,0.0,0,steamed then refrigerated
+2026-09-16,12:10,Breakfast,steamed sweet potato,100,g,87,1.3,0.4,15,0.0,0,steamed then refrigerated
+2026-09-16,12:10,Hydration,h2o,450,ml,0,0,0,0,0,0,
+
+2026-09-16,12:40,Snack,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-09-16,12:40,Hydration,h2o,450,ml,0,0,0,0,0,0,
+
+2026-09-16,13:20,Hydration,h2o,620,ml,0,0,0,0,0,0,
+2026-09-16,14:30,Lunch,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-09-16,14:30,Lunch,maxims home bread quinoa & germ,90,g,239,9.1,0.9,30,0.71,0,2 slices; label per 100g; 265kcal; protein 10.1g; total fat 4.9g; saturated fat 0.79g; trans fat 0g; carbo 45.g; sugar 10.7g; sodium 470mg; 180g whole bag
+2026-09-16,14:30,Lunch,ligo sardine in tomato sauce (no sauce),1,can,147,15,,495,2,,3 servings 5g protein/49kcal each/20mg cholesterol
+2026-09-16,14:30,Lunch,choco milk low fat,236,ml,155,5.7,0.2,410,2.1,0,low fat; Label per serving: 155 kcal; 5.7g protien; total fat 5.7g; sat fat 2.1g; trans fat 0g; cholesterol 12mg; carbo 25.5g; sugar 25.3g; sodium 215mg; calcium 401mg; vit d 2.4ug
+2026-09-16,14:55,Snack,banana,120,g,107,1.3,0.4,12,0.1,0,whole weight
+2026-09-16,15:35,Beverage,coca cola coke zero,330,ml,xx,xx,xx,xx,xx,xx,
+2026-09-16,19:05,Dinner,boiled okra,56.6,g,19,1.2,0.4,35,0.0,0,4 pieces
+2026-09-16,19:05,Dinner,stir-fried cucumber with chicken,133.7,g,145,22.0,0.8,20,1.0,0,weighed net
+2026-09-16,19:05,Dinner,stir-fried cucumber with egg,64.4,g,85,6.5,0.5,25,1.5,0,
+2026-09-16,19:05,Dinner,fried pumpkin pork patty,21.7,g,45,3.5,0.3,10,0.8,0,
+2026-09-16,19:05,Dinner,sea cucumber,32.9,g,25,5.5,0.4,20,0.1,0,from winter melon soup; only sea cucumber eaten
+2026-09-16,19:05,Dinner,boiled choi sum,57.9,g,14,1.8,0.5,50,0.05,0,1/2 bowl
+2026-09-16,19:05,Dinner,white rice,1,bowl,240,4.5,0.3,5,0.1,0,
+2026-09-16,19:05,Dinner,winter melon lean pork soup,2,bowl,60,4.0,0.4,25,0.5,0,winter melon:liquid \~6:4; mainly melon
+2026-09-16,20:45,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
+2026-09-16,20:45,Snack,four seas seaweed,1,pack,20,1.5,1.5,20,0.05,0,
+2026-09-16,21:15,Snack,watermelon,200,g,60,1.2,0.3,15,0.1,0,estimated from photo
+2026-09-16,22:30,Hydration,h2o,350,ml,0,0,0,0,0,0,
