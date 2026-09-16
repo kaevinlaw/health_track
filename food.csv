@@ -754,5 +754,5 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-16,05:10,Beverage,top soya organic extra rich soymilk no sugar,500,ml,205,19,1.5,50,1.5,0,label per 100ml: 41kcal; 3.8g protein; 2.0g total fat; 0.3g sat fat; 0.5g sugar
 2026-09-16,07:45,Breakfast,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
 2026-09-16,07:45,Breakfast,envy apple,285,g,140,1.1,0.3,13,0.1,0,whole weight; edible 240g
-2026-09-16,07:45,Breakfast,banana,142,g,xx,xx,xx,xx,xx,0,whole weight
-2026-09-16,08:10,Breakfast,americano,240,ml,xx,0,0,0,0,xx,3 beans; filtered
+2026-09-16,07:45,Breakfast,banana,142,g,126,1.5,0.4,15,0.1,0,whole weight
+2026-09-16,08:10,Breakfast,americano,240,ml,5,0,0,0,0,75,3 beans; filtered
