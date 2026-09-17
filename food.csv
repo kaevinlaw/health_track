@@ -652,7 +652,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-12,07:25,Breakfast,edamame,85.5,g,105,10.0,1.5,45,0.6,0,10 coffee spoon; shelled
 2026-09-12,07:45,Breakfast,instant coffee,350,ml,5,0,0,0,0,50,ucc 114 1.5 spoon
 2026-09-12,09:00,Breakfast,envy apple,285,g,140,1.1,0.3,13,0.1,0,whole weight; edible 240g
-2026-09-12,10:30,Breakfast,quaker instant oatmeal,30,g,110,4.6,1.3,18,0.51,0,dry weight
+2026-09-12,10:30,Breakfast,quaker instant oatmeal,30,g,110,4.6,1.3,18,0.51,0,dry weight; label per 100g 367kcal; protein 15.2g; total fat 8.6g; saturated fat 1.7g; cholesterol 0g; total carbo 62.0g; dietary fiber 10g; soluble fiber 4.3g; beta-glucan 4g; insoluble fiber 5.7g; sugar 1.3g sodium 3.7g; iron 4.5mg; magnesium 104mg; phosphorus 337mg; zinc 2.6mg
 2026-09-12,10:45,Beverage,top soya soymilk no sugar,480,ml,126,13.0,0.8,125,1.0,0,label per 100ml: 26.3kcal; 2.7g protein; 1.5g total fat; 0.2g sat fat; 0.5g sugar; dietary fiber 1.2g; sodium 3.5mg
 2026-09-12,13:00,Lunch,boiled okra,6,piece,31,1.9,0.6,50,0.0,0,93g
 2026-09-12,13:00,Lunch,steamed japanese sweet potato,146,g,127,1.9,0.5,20,0.0,0,
@@ -757,14 +757,11 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-16,07:45,Breakfast,envy apple,285,g,140,1.1,0.3,13,0.1,0,whole weight; edible 240g
 2026-09-16,07:45,Breakfast,banana,142,g,126,1.5,0.4,15,0.1,0,whole weight
 2026-09-16,08:10,Breakfast,americano,240,ml,5,0,0,0,0,75,3 beans; filtered
-
 2026-09-16,10:15,Breakfast,steamed sweet potato,98,g,85,1.3,0.4,15,0.0,0,steamed then refrigerated
 2026-09-16,12:10,Breakfast,steamed sweet potato,100,g,87,1.3,0.4,15,0.0,0,steamed then refrigerated
 2026-09-16,12:10,Hydration,h2o,450,ml,0,0,0,0,0,0,
-
 2026-09-16,12:40,Snack,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
 2026-09-16,12:40,Hydration,h2o,450,ml,0,0,0,0,0,0,
-
 2026-09-16,13:20,Hydration,h2o,620,ml,0,0,0,0,0,0,
 2026-09-16,14:30,Lunch,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
 2026-09-16,14:30,Lunch,maxims home bread quinoa & germ,90,g,239,9.1,0.9,30,0.71,0,2 slices; label per 100g; 265kcal; protein 10.1g; total fat 4.9g; saturated fat 0.79g; trans fat 0g; carbo 45.g; sugar 10.7g; sodium 470mg; 180g whole bag
@@ -784,3 +781,31 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-16,20:45,Snack,four seas seaweed,1,pack,20,1.5,1.5,20,0.05,0,
 2026-09-16,21:15,Snack,watermelon,200,g,60,1.2,0.3,15,0.1,0,estimated from photo
 2026-09-16,22:30,Hydration,h2o,350,ml,0,0,0,0,0,0,
+
+2026-09-17,08:00,Breakfast,envy apple,288,g,142,1.1,0.3,13,0.1,0,whole weight
+2026-09-17,08:00,Breakfast,banana,134,g,119,1.5,0.4,15,0.1,0,whole weight
+2026-09-17,08:10,Breakfast,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-09-17,08:10,Breakfast,americano,240,ml,5,0,0,0,0,50,2 beans; filtered
+2026-09-17,08:00,Breakfast,quaker instant oatmeal,32,g,118,4.9,1.2,15,0.5,0,dry weight; label per 100g 367kcal; protein 15.2g; total fat 8.6g; saturated fat 1.7g; cholesterol 0g; total carbo 62.0g; dietary fiber 10g; soluble fiber 4.3g; beta-glucan 4g; insoluble fiber 5.7g; sugar 1.3g sodium 3.7g; iron 4.5mg; magnesium 104mg; phosphorus 337mg; zinc 2.6mg
+2026-09-17,09:30,Beverage,top soya soymilk no sugar,450,ml,118,12.2,0.8,130,0.9,0,label per 100ml: 26.3kcal; 2.7g protein; 1.5g total fat; 0.2g sat fat; 0.5g sugar; dietary fiber 1.2g; sodium 3.5mg
+2026-09-17,11:00,Snack,almonds,5,piece,40,1.25,0.5,,0.2,,
+2026-09-17,11:45,Snack,garden chia seed wheat sandwich bread,45,g,103,5.4,0.4,12.5,0.225,0,1 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g; trans fat 0g; carbo 38.6g; dietary fibre 7.1g; sugar 0.7g; sodium 229mg; cholesterol 0mg
+2026-09-17,11:45,Snack,edamame,56,g,68,6.6,1.2,36,0.4,0,8 muji coffee spoon
+2026-09-17,12:00,Hydration,h2o,650,ml,0,0,0,0,0,0,
+2026-09-17,12:17,Snack,banana,147.3,g,131,1.6,0.4,15,0.1,0,whole weight
+2026-09-17,14:30,Lunch,boiled okra,50,g,17,1.0,0.4,35,0.0,0,4 pieces
+2026-09-17,14:35,Lunch,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+2026-09-17,14:35,Lunch,garden chia seed wheat sandwich bread,90,g,206,10.8,0.8,25,0.45,0,2 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g; trans fat 0g; carbo 38.6g; dietary fibre 7.1g; sugar 0.7g; sodium 229mg; cholesterol 0mg
+2026-09-17,14:35,Lunch,stir-fried cucumber with chicken,165,g,175,26.0,1.0,25,1.2,0,weighed net; leftover from last night
+2026-09-17,14:45,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-17,17:00,Snack,edamame,21,g,25,2.5,0.5,15,0.15,0,3 muji coffee spoon
+2026-09-17,18:45,Dinner,fish soup liquid,2,bowl,40,4.0,0.3,20,0.3,0,yellow croaker + white head fish; tofu potato; liquid only
+2026-09-17,18:45,Dinner,steamed tofu egg,108.7,g,95,10.0,0.8,80,1.8,0,50:50
+2026-09-17,18:45,Dinner,boiled okra,49.3,g,16,1.0,0.4,35,0.0,0,4 pieces
+2026-09-17,18:45,Dinner,stir-fried shrimp cucumber wood ear,162.6,g,120,18.0,1.0,40,0.8,0,
+2026-09-17,18:45,Dinner,steamed chicken wing no bone skin,23.1,g,40,7.5,0.5,10,0.5,0,
+2026-09-17,18:45,Dinner,tofu from soup,34.0,g,25,2.8,0.4,20,0.3,0,
+2026-09-17,18:45,Dinner,stir-fried lean beef,15.1,g,30,4.5,0.3,10,0.6,0,
+2026-09-17,18:45,Dinner,steamed lettuce,94.3,g,15,1.5,0.4,40,0.05,0,
+2026-09-17,20:30,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
+2026/09/17,21:30,Snack,"seasoned tuna fish snack",8,piece,38.4,4.1,0.56,20,0.128,0,"per 100g: 328kcal; protein 35.4g; sat fat 1.1g; sugar 32.9g; sodium 1751mg; \~1.45g each"
