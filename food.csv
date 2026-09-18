@@ -809,3 +809,23 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-17,18:45,Dinner,steamed lettuce,94.3,g,15,1.5,0.4,40,0.05,0,
 2026-09-17,20:30,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
 2026/09/17,21:30,Snack,"seasoned tuna fish snack",8,piece,38.4,4.1,0.56,20,0.128,0,"per 100g: 328kcal; protein 35.4g; sat fat 1.1g; sugar 32.9g; sodium 1751mg; \~1.45g each"
+
+2026-09-18,08:10,Breakfast,top soya soymilk no sugar,510,ml,134,13.8,0.9,150,1.0,0,label per 100ml
+2026-09-18,08:10,Breakfast,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-09-18,08:10,Breakfast,envy apple,300,g,148,1.1,0.3,13,0.1,0,whole weight
+2026-09-18,08:10,Breakfast,banana,173,g,154,1.9,0.5,15,0.1,0,whole weight
+2026-09-18,08:10,Breakfast,americano,240,ml,5,0,0,0,0,75,3 beans; filtered
+2026-09-18,09:00,Hydration,h2o,690,ml,0,0,0,0,0,0,
+2026-09-18,11:10,Snack,edamame,42,g,51,5.0,0.9,25,0.3,0,6 muji coffee spoon
+2026-09-18,11:50,Snack,steamed purple sweet potato,146.6,g,127,1.9,0.6,25,0.1,0,steamed then refrigerated
+2026-09-18,12:15,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-18,13:20,Hydration,h2o,800,ml,0,0,0,0,0,0,
+2026-09-18,14:30,Lunch,boiled okra,58.4,g,19,1.2,0.4,35,0.0,0,4 pieces
+2026-09-18,14:30,Lunch,garden chia seed wheat sandwich bread,135,g,309,16.2,1.2,35,0.68,0,3 pieces; label per 100g
+2026-09-18,14:30,Lunch,sardine in salted water,70,g,47,11.3,1.1,40,0,0,Donki; label per 100g: 67.1kcal; 16.1g protein; 0.4g total fat; 0g sat fat
+2026-09-18,14:30,Lunch,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+2026-09-18,16:00,Hydration,h2o,400,ml,0,0,0,0,0,0,
+2026-09-18,16:20,Snack,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-09-18,17:00,Snack,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-09-18,17:00,Hydration,h2o,400,ml,0,0,0,0,0,0,
+2026-09-18,17:10,Hydration,h2o,400,ml,0,0,0,0,0,0,
