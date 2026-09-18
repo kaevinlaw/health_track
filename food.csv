@@ -808,7 +808,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-17,18:45,Dinner,stir-fried lean beef,15.1,g,30,4.5,0.3,10,0.6,0,
 2026-09-17,18:45,Dinner,steamed lettuce,94.3,g,15,1.5,0.4,40,0.05,0,
 2026-09-17,20:30,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
-2026/09/17,21:30,Snack,"seasoned tuna fish snack",8,piece,38.4,4.1,0.56,20,0.128,0,"per 100g: 328kcal; protein 35.4g; sat fat 1.1g; sugar 32.9g; sodium 1751mg; \~1.45g each"
+2026-09-17,21:30,Snack,"seasoned tuna fish snack",8,piece,38.4,4.1,0.56,20,0.128,0,"per 100g: 328kcal; protein 35.4g; sat fat 1.1g; sugar 32.9g; sodium 1751mg; \~1.45g each"
 
 2026-09-18,08:10,Breakfast,top soya soymilk no sugar,510,ml,134,13.8,0.9,150,1.0,0,label per 100ml
 2026-09-18,08:10,Breakfast,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
@@ -842,3 +842,16 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-18,20:45,Snack,seasoned tuna fish snack,4,piece,19,2.0,0.3,10,0.06,0,\~1.45g each
 2026-09-18,21:15,Snack,imuraya tofu dessert,200,g,124,4.0,0.6,50,0.6,0,
 2026-09-18,22:00,Hydration,h2o,350,ml,0,0,0,0,0,0,
+
+2026-09-19,07:55,Breakfast,envy apple,248,g,122,1.0,0.3,12,0.1,0,whole weight
+2026-09-19,08:15,Breakfast,edamame,21.6,g,26,2.5,0.5,15,0.15,0,4 home coffee spoon
+2026-09-19,08:20,Breakfast,ucc instant coffee,1,cup,5,0,0,0,0,50,
+2026-09-19,08:35,Breakfast,steamed sweet potato,60.7,g,53,0.8,0.3,15,0.05,0,
+2026-09-19,09:00,Hydration,h2o,350,ml,0,0,0,0,0,0,
+2026-09-19,11:35,Snack,steamed sweet potato,47.6,g,41,0.6,0.2,12,0.05,0,
+2026-09-19,11:52,Snack,edamame,29,g,35,3.4,0.6,18,0.2,0,6 spoon
+2026-09-19,12:45,Lunch,grilled salmon belly onigiri,100,g,209,5.4,0.5,20,0.3,0,label: 209kcal; protein 5.4g; sat fat 0.3g
+2026-09-19,12:45,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+2026-09-19,14:00,Beverage,wonda black coffee,400,ml,0,0,0,0,0,0,
+2026-09-19,15:00,Snack,grilled meat skewer,22,g,45,6.0,0.4,10,0.8,0,cartilage removed; estimated
+2026-09-19,15:30,Snack,popcorn,2,piece,10,0.2,0.1,5,0.05,0,
