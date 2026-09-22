@@ -768,7 +768,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-16,14:30,Lunch,ligo sardine in tomato sauce (no sauce),1,can,147,15,,495,2,,3 servings 5g protein/49kcal each/20mg cholesterol
 2026-09-16,14:30,Lunch,choco milk low fat,236,ml,155,5.7,0.2,410,2.1,0,low fat; Label per serving: 155 kcal; 5.7g protien; total fat 5.7g; sat fat 2.1g; trans fat 0g; cholesterol 12mg; carbo 25.5g; sugar 25.3g; sodium 215mg; calcium 401mg; vit d 2.4ug
 2026-09-16,14:55,Snack,banana,120,g,107,1.3,0.4,12,0.1,0,whole weight
-2026-09-16,15:35,Beverage,coca cola coke zero,330,ml,xx,xx,xx,xx,xx,xx,
+2026-09-16,15:35,Beverage,coca cola coke zero,330,ml,1,0,0,0,0,32,Coca-Cola Zero Sugar; ~0 kcal; caffeine ~10mg/100ml
 2026-09-16,19:05,Dinner,boiled okra,56.6,g,19,1.2,0.4,35,0.0,0,4 pieces
 2026-09-16,19:05,Dinner,stir-fried cucumber with chicken,133.7,g,145,22.0,0.8,20,1.0,0,weighed net
 2026-09-16,19:05,Dinner,stir-fried cucumber with egg,64.4,g,85,6.5,0.5,25,1.5,0,
@@ -913,3 +913,112 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-21,20:30,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
 2026-09-21,21:20,Snack,seasoned tuna fish snack,5,piece,23.75,2.5,0.375,12.5,0.075,0,\~1.45g each
 2026-09-21,22:30,Hydration,h2o,250,ml,0,0,0,0,0,0,
+
+2026-09-22,08:15,Breakfast,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-09-22,08:25,Breakfast,envy apple,250,g,110,0.6,0.2,10,0.1,0,whole weight; edible \~212g
+2026-09-22,08:30,Breakfast,americano,240,ml,5,0,0,0,0,75,3 beans; filtered
+2026-09-22,09:13,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-22,09:23,Beverage,vitasoy calci plus high protein soya milk,250,ml,112,10.0,0.4,425,0.75,0,label per 100ml: 45kcal; protein 4g; total fat 1.6g; sat fat 0.3; trans fat 0g; cholesterol 0mg;
+2026-09-22,10:25,Breakfast,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-09-22,10:30,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-22,11:40,Beverage,black chia seed powder,5,g,24,0.8,0.4,30,0.2,0,1 muji spoon powder; mixed in water
+2026-09-22,11:40,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-22,11:00,Breakfast,steamed sweet potato,117.8,g,101,1.9,0.8,35,0.1,0,
+2026-09-22,11:00,Breakfast,steamed sweet potato,86.3,g,74,1.4,0.6,26,0.1,0,
+2026-09-22,12:20,Breakfast,americano,450,ml,5,0,0,0,0,25,1 bean; filtered
+2026-09-22,14:30,Lunch,boiled okra,59,g,19,1.1,0.4,25,0.1,0,5 pieces
+2026-09-22,14:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+2026-09-22,15:30,Breakfast,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-09-22,14:30,Lunch,garden chia seed wheat sandwich bread,90,g,206,10.8,0.8,25,0.45,0,2 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g; trans fat 0g; carbo 38.6g; dietary fibre 7.1g; sugar 0.7g; sodium 229mg; cholesterol 0mg
+2026-09-22,14:40,Lunch,instant chicken breast,88.7,g,95,15.9,0.7,8,0.62,0,removed skin/oil
+2026-09-22,15:50,Snack,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-09-22,16:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-22,16:20,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.15,5,0.03,0,\~1.45g each
+2026-09-22,16:40,Snack,almonds,5,piece,40,1.25,0.5,,0.2,,
+2026-09-22,19:00,Dinner,boiled okra,77.8,g,26,1.5,0.5,35,0.1,0,5-6 pieces
+2026-09-22,19:00,Dinner,lean pork from soup,98.5,g,138,20.7,1.2,8,1.8,0,soup solids
+2026-09-22,19:00,Dinner,soymilk steamed egg,76.1,g,91,7.6,1.0,40,1.4,0,豆槳蒸蛋
+2026-09-22,19:00,Dinner,pan-fried shrimp pork patty,37.4,g,67,5.6,0.6,10,0.9,0,
+2026-09-22,19:00,Dinner,pan-fried tofu,51.2,g,72,6.1,1.0,50,0.6,0,
+2026-09-22,19:00,Dinner,stir-fried bean sprouts corn mushroom,27,g,11,0.5,0.3,10,0.0,0,
+2026-09-22,19:00,Dinner,pumpkin from steamed spare rib,13.6,g,4,0.1,0.2,5,0.0,0,
+2026-09-22,19:00,Dinner,boiled lettuce,66.2,g,12,0.9,0.6,40,0.0,0,40.9+25.3g
+2026-09-22,19:00,Dinner,white rice,1,bowl,230,4.0,0.5,5,0.1,0,
+2026-09-22,19:00,Dinner,cordyceps chicken carcass lean pork soup,2,bowl,50,3.0,0.5,20,0.4,0,liquid mainly
+2026-09-22,22:10,Snack,dried small fish,6.5,g,21,4.2,1.2,130,0.1,0,10 pieces; 4 pieces weighed 2.6g
+2026-09-22,22:15,Snack,watermelon,80,g,24,0.5,0.2,8,0.0,0,
+2026-09-22,22:00,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.15,5,0.03,0,\~1.45g each
+2026-09-22,22:10,Beverage,carlsberg 0.0 non-alcoholic beer,1,can,60,0,0,0,0,0,
+
+2026-09-23,08:00,Breakfast,edamame,49,g,59,5.8,1.0,30,0.3,0,7 muji coffee spoon
+2026-09-23,08:15,Breakfast,envy apple,250,g,110,0.6,0.2,10,0.1,0,whole weight; edible \~212g
+2026-09-23,08:20,Breakfast,americano,240,ml,5,0,0,0,0,75,3 beans; filtered
+2026-09-23,08:20,Beverage,black chia seed powder,5,g,24,0.8,0.4,30,0.2,0,1 muji spoon powder; mixed in coffee
+2026-09-23,08:45,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-23,08:40,Breakfast,quaker instant oatmeal,42,g,154,6.4,1.6,20,0.7,0,dry weight estimated; 8 snowpeak sporks; \~2cm depth in 8.5cm diameter mug (\~113ml); label per 100g approx 367kcal; protein 15.2g; sat fat 1.7g
+2026-09-23,10:45,Breakfast,top soya organic extra rich soymilk no sugar,480,ml,196.8,18.24,1.44,48,1.44,0,label per 100ml: 41kcal; 3.8g protein; 2.0g total fat; 0.3g sat fat; 0.5g sugar
+2026-09-23,11:15,Snack,almonds,5,piece,40,1.25,0.5,,0.2,,
+2026-09-23,15:00,Beverage,aquarius sports drink,500,ml,90,0,0,15,0,0,label per 100ml: energy 18 kcal; protein 0g; total fat 0g; sat fat 0g; trans fat 0g; carbo 4.2g; sugars 4.2g; sodium 30mg; potassium 7mg; calcium 0.7mg; magnesium 1.1mg; vit b3 1.2mg; vit b5 0.45mg; vit b 6 0.11mg
+2026-09-23,14:00,Hydration,h2o,500,ml,0,0,0,0,0,0,
+2026-09-23,14:30,Lunch,boiled okra,60,g,20,1.1,0.4,25,0.1,0,4 pieces; 1 hard/dry discarded
+2026-09-23,14:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+2026-09-23,14:30,Lunch,instant chicken breast,88.7,g,95,15.9,0.7,8,0.62,0,label per 100g: 107.3kcal; protein 17.9g; total fat 2.4g; sat fat 0.7g; carbo 3.3g; sugar 0g; sodium 406mg
+2026-09-23,14:40,Lunch,steamed sweet potato,100,g,86,1.6,0.7,28,0.1,0,larger one
+2026-09-23,14:40,Lunch,steamed sweet potato,55,g,47,0.9,0.4,15,0.1,0,smaller one after bite
+2026-09-23,16:45,Snack,seasoned tuna fish snack,5,piece,24,2.5,0.4,12,0.1,0,\~1.45g each
+2026-09-23,17:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-23,19:00,Dinner,boiled okra,88.3,g,29,1.7,0.6,40,0.1,0,
+2026-09-23,19:00,Dinner,stir-fried chicken breast with bell pepper,54.4,g,46,8.9,0.5,15,0.2,0,scale weight eaten; skinless chicken + pepper
+2026-09-23,19:00,Dinner,tofu steamed egg,87.8,g,97,7.9,1.0,50,1.3,0,tofu:egg 7:3
+2026-09-23,19:00,Dinner,boiled lettuce,43.5,g,7,0.5,0.4,25,0.0,0,
+2026-09-23,19:00,Dinner,pumpkin pork patty,17.4,g,31,2.4,0.3,5,0.4,0,mei tou lean
+2026-09-23,19:00,Dinner,hairy gourd from soup,80,g,12,0.5,0.3,15,0.0,0,2 pieces
+2026-09-23,19:00,Dinner,hairy gourd lean pork apple soup,2,bowl,40,2.0,0.4,15,0.3,0,liquid mainly
+2026-09-23,19:00,Dinner,white rice,1,bowl,230,4.0,0.5,5,0.1,0,
+2026-09-23,20:45,Snack,dried small fish,6.5,g,21,4.2,1.2,130,0.1,0,10 pieces
+2026-09-23,20:45,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.2,5,0.0,0,
+2026-09-23,21:30,Snack,maxims sourdough bread sliced,6.0,g,14,0.6,0.1,4,0.0,0,label per 100g: 239kcal; protein 9.2g; total fat 2.1g; saturated fat 0.4g; trans fat 0g; carbo 46g; fibre 3.5g; sugars 2.9g; sodium 653mg
+2026-09-23,21:15,Snack,imuraya tofu dessert,200,g,124,4.0,0.6,50,0.6,0,
+2026-09-23,22:00,Hydration,h2o,350,ml,0,0,0,0,0,0,
+
+2026-09-24,07:50,Breakfast,top soya organic extra rich soymilk no sugar,480,ml,196.8,18.24,1.44,48,1.44,0,label per 100ml: 41kcal; 3.8g protein; 2.0g total fat; 0.3g sat fat; 0.5g sugar
+2026-09-24,08:00,Breakfast,envy apple,250,g,110,0.6,0.2,10,0.1,0,whole weight; edible \~212g
+2026-09-24,08:30,Breakfast,americano,240,ml,5,0,0,0,0,75,3 beans; filtered
+2026-09-24,08:30,Beverage,americano,240,ml,5,0,0,0,0,50,2 beans; filtered
+2026-09-24,08:47,Hydration,h2o,240,ml,0,0,0,0,0,0,
+2026-09-24,09:33,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-24,10:20,Breakfast,steamed sweet potato,63.3,g,54,1.0,0.5,18,0.1,0,
+2026-09-24,10:25,Breakfast,steamed sweet potato,130.9,g,113,2.1,0.9,37,0.1,0,
+2026-09-24,10:45,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-24,12:40,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+2026-09-24,12:40,Lunch,instant chicken breast (pepper),100,g,111,18.6,0.7,15,0.5,0,label per 100g: 110.7kcal; protein 18.6g; sat fat 0.5g
+2026-09-24,12:40,Lunch,boiled okra,84.3,g,28,1.6,0.6,35,0.1,0,
+2026-09-24,12:40,Lunch,maxims sourdough bread sliced,106.0,g,253,9.8,0.8,70,0.4,0,label per 100g: 239kcal; protein 9.2g; total fat 2.1g; saturated fat 0.4g; trans fat 0g; carbo 46g; fibre 3.5g; sugars 2.9g; sodium 653mg
+2026-09-24,13:00,Beverage,black chia seed powder,5,g,24,0.8,0.4,30,0.2,0,1 muji spoon powder; mixed in water
+2026-09-24,13:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-24,15:00,Beverage,coca cola coke zero,330,ml,1,0,0,0,0,32,Coca-Cola Zero Sugar; ~0 kcal; caffeine ~10mg/100ml
+2026-09-24,15:35,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-24,15:35,Snack,almonds,5,piece,40,1.25,0.5,,0.2,,
+2026-09-24,18:00,Beverage,top soya organic extra rich soymilk black sesame,500,ml,286.5,18,1.5,40,1.5,0,
+2026-09-24,19:00,Dinner,spicy cod roe onigiri,100,g,172,4.6,0.8,20,0,0,hana-musubi; label per 100g/serving: 172kcal; protein 4.6g; total fat 1.7; sat fat 0g; carbo 34.3g; sodium 529mg
+2026-09-24,19:00,Dinner,double cheese chicken onigiri,100,g,198,7,0.5,45,0.6,0,hana-musubi; label per 100g/serving: 198kcal; protein 7g; total fat 4.0g; sat fat 0.6; trans fat 0g; carbo 33.4g; suars 0.1g; sodium 425mg
+2026-09-24,19:00,Dinner,mcdonalds egg and cheese muffin leftover,0.25,serving,55,3.0,0.3,10,1.1,0,\~1/4; no sauce/ketchup; small cheese
+2026-09-24,19:00,Beverage,mcdonalds chocolate drink,0.33,cup,45,2.0,0.3,10,0.8,0,1/3 kids cup
+2026-09-24,19:00,Snack,mcdonalds fresh corn cup,0.67,cup,36,1.4,0.3,5,0.2,0,2/3 of small cup; label small full: 54kcal; protein 2.1g; sat fat 0.3g
+2026-09-24,21:00,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
+2026-09-24,22:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
+
+2026-09-25,08:00,Breakfast,envy apple,250,g,110,0.6,0.2,10,0.1,0,whole weight; edible \~212g
+2026-09-25,08:00,Breakfast,black chia seed powder,5,g,24,0.8,0.4,30,0.2,0,1 muji spoon powder; mixed in water
+2026-09-25,08:00,Breakfast,almonds,5,piece,40,1.25,0.5,,0.2,,
+2026-09-25,08:00,Breakfast,americano,240,ml,5,0,0,0,0,150,6 beans; filtered
+2026-09-25,08:30,Hydration,h2o,200,ml,0,0,0,0,0,0,
+2026-09-25,09:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-09-25,10:32,Breakfast,boiled okra,67.4,g,22,1.3,0.5,30,0.1,0,5 pieces
+2026-09-25,10:35,Breakfast,steamed cucumber,78,g,12,0.5,0.3,15,0.0,0,
+2026-09-25,10:35,Breakfast,steamed chicken breast skinless,155.5,g,187,38.9,0.8,40,0.9,0,no skin
+2026-09-25,11:27,Breakfast,steamed sweet potato,71.5,g,61,1.1,0.7,20,0.1,0,
+2026-09-25,11:48,Snack,almonds,5,piece,40,1.25,0.5,,0.2,,
+2026-09-25,13:45,Lunch,iced coffee / black coffee,1,glass,5,0,0,0,0,50,assume plain iced coffee / americano style
+2026-09-25,13:45,Lunch,hawaiian konjac salmon poke bowl (no dragon fruit, no mayo),1,bowl,480,22,2.5,40,2.0,0,konjac salmon + tofu + edamame + avocado + mango + rice; completely no mayo; no dragon fruit
+2026-09-25,15:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
