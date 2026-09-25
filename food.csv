@@ -1020,5 +1020,14 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-09-25,11:27,Breakfast,steamed sweet potato,71.5,g,61,1.1,0.7,20,0.1,0,
 2026-09-25,11:48,Snack,almonds,5,piece,40,1.25,0.5,,0.2,,
 2026-09-25,13:45,Lunch,iced coffee / black coffee,1,glass,5,0,0,0,0,50,assume plain iced coffee / americano style
-2026-09-25,13:45,Lunch,hawaiian konjac salmon poke bowl (no dragon fruit, no mayo),1,bowl,480,22,2.5,40,2.0,0,konjac salmon + tofu + edamame + avocado + mango + rice; completely no mayo; no dragon fruit
+2026-09-25,13:45,Lunch,hawaiian konjac salmon poke bowl (no dragon fruit no mayo),1,bowl,480,22,2.5,40,2.0,0,konjac salmon + tofu + edamame + avocado + mango + rice; completely no mayo; no dragon fruit
 2026-09-25,15:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+2026-09-25,18:42,Dinner,steamed sweet potato,70,g,60,1.1,0.6,20,0.1,0,
+2026-09-25,18:42,Dinner,stir-fried clams with garlic (no oil),15,piece,45,7.5,0.5,15,0.3,0,water-based; ~15 clams
+2026-09-25,18:42,Dinner,sourdough bread,82.6,g,197,7.6,0.6,55,0.3,0,estimated similar to previous maxims/sourdough ~239kcal/100g
+2026-09-25,18:42,Dinner,boiled choi sum,89.7,g,18,1.8,0.8,40,0.1,0,
+2026-09-25,18:42,Dinner,stir-fried chicken with wood ear and red pepper,74.8,g,55,12.0,0.5,15,0.4,0,chicken 42.2g + wood ear 28g + pepper 4.6g
+2026-09-25,18:42,Dinner,stir-fried cucumber with egg,72.7,g,85,6.5,0.6,20,1.5,0,mostly egg + cucumber
+2026-09-25,18:42,Dinner,tomato potato pumpkin red snapper soup,2,bowl,120,8.0,1.0,25,0.8,0,2 bowls + 3 potato pieces + 2 tomato; liquid + some solids
+2026-09-25,22:00,Snack,arome lava custard mooncake,12.5,g,48,0.8,0.2,5,1.6,0,1/4 piece; label per 1/2 piece 25g: 96kcal; protein 1.6g; sat fat 3.1g
+2026-09-25,22:00,Hydration,h2o,350,ml,0,0,0,0,0,0,
