@@ -1209,3 +1209,33 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-10-02,13:30,Lunch,banana,150,g,134,1.6,0.5,15,0.1,0,whole weight; edible \~128g
 2026-10-02,15:07,Lunch,sansui tofu dessert,1,pack,136,4.4,0.8,60,0.66,0,220g; label per 100g: 62kcal; 2g protein; 1.5g total fat; 0.3g sat fat; 9.5g sugars
 2026-10-02,15:50,Beverage,top soya soymilk no sugar,480,ml,126,13.0,0.9,140,1.0,0,label per 100ml: 26.3kcal; 2.7g protein; 1.5g total fat; 0.2g sat fat; 0.5g sugar; dietary fiber 1.2g; sodium 3.5mg
+2026-10-02,18:37,Dinner,boiled okra,93.8,g,31,1.8,0.7,40,0.1,0,scale photo
+2026-10-02,18:37,Dinner,pan-fried salmon skinless,40.9,g,85,10.0,0.5,0,1.2,0,scale 40.9g; skin removed
+2026-10-02,18:37,Dinner,stir-fried chicken roll with pepper,89.3,g,110,9.5,0.8,20,1.4,0,黑椒雞扎肉 + 青紅椒; scale 89.3g; chicken roll \~55-60g (label 2.0g sat fat/100g) + peppers
+2026-10-02,18:37,Dinner,garlic baked enoki no oil,30.4,g,10,1.0,0.2,5,0.0,0,scale photo
+2026-10-02,18:37,Dinner,lean beef steamed egg,19.6,g,30,3.5,0.2,8,0.6,0,scale photo; small piece
+2026-10-02,18:37,Dinner,boiled lettuce,41.6,g,6,0.5,0.3,15,0.0,0,scale photo
+2026-10-02,18:37,Dinner,lean pork from soup,84.9,g,145,22.0,0.8,0,1.5,0,scale photo; lean
+2026-10-02,18:37,Dinner,corn from soup,173.6,g,150,4.5,2.5,30,0.5,0,scale photo
+2026-10-02,18:37,Dinner,chayote from soup,30,g,6,0.3,0.2,8,0.0,0,small amount; red colour from pepper
+2026-10-02,18:37,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+2026-10-02,18:37,Dinner,chayote corn chestnut lean pork soup,2,bowl,50,3.0,0.5,20,0.4,0,2 bowls liquid mainly
+2026-10-02,22:00,Snack,hoshi fish snack,8,g,35,5.1,0.5,32,0.4,0,
+2026-10-02,20:30,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
+
+2026-10-03,10:00,Breakfast,envy apple,283,g,140,1.1,0.3,13,0.1,0,whole weight; edible \~240g
+2026-10-03,10:00,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,
+2026-10-03,10:00,Breakfast,quaker instant oatmeal,30,g,114,4.7,1.2,15,0.5,0,dry weight; mixed in coffee
+2026-10-03,10:00,Breakfast,ucc coffee,350,ml,5,0,0,0,0,50,1.5 spoon powder
+2026-10-03,11:00,Breakfast,steamed sweet potato,101,g,87,1.6,1.0,20,0.1,0,
+2026-10-03,11:20,Beverage,top soya soymilk no sugar,480,ml,126,13.0,0.9,140,1.0,0,label per 100ml: 26.3kcal; 2.7g protein; 1.5g total fat; 0.2g sat fat; 0.5g sugar; dietary fiber 1.2g; sodium 3.5mg
+2026-10-03,13:05,Snack,edamame,28,g,34,3.3,0.6,18,0.2,0,5 coffee spoon
+2026-10-03,14:05,Lunch,boiled okra,95.8,g,32,1.8,0.7,40,0.1,0,
+2026-10-03,14:05,Lunch,corn from soup,160,g,140,4.2,2.4,30,0.4,0,weighed with cob 271.4g; edible \~60%; sat fat \~0.25g/100g
+2026-10-03,14:05,Lunch,lean pork from soup,109.1,g,185,28.0,1.0,0,1.9,0,scale 109.1g
+2026-10-03,14:05,Lunch,steamed white rice,85.1,g,97,2.0,0.3,5,0.1,0,scale 85.1g
+2026-10-03,14:05,Lunch,boiled choi sum,109.7,g,22,2.2,1.5,50,0.1,0,scale photo
+2026-10-03,14:05,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+2026-10-03,15:00,Beverage,ucc coffee,350,ml,5,0,0,0,0,50,1.5 spoon powder
+2026-10-03,15:13,Snack,leftover spiral pasta with lean pork,1,spoon,40,2.5,0.3,8,0.2,0,small amount
+2026-10-03,16:07,Snack,chayote corn chestnut lean pork soup,1,bowl,45,2.5,0.4,15,0.3,0,1 piece chayote + liquid
