@@ -1367,9 +1367,9 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-10-08,19:15,Dinner,hairy gourd from soup,128.9,g,25,1.0,0.8,30,0.1,0,scale 128.9g; 煲湯節瓜
 2026-10-08,19:15,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
 2026-10-08,19:15,Dinner,hairy gourd lean pork soup,2,bowl,40,2.5,0.3,15,0.3,0,2 bowls liquid mainly
-2026-10-09,21:00,Snack,seasoned tuna fish snack,1,piece,4.75,0.5,0.1,2.5,0.0,0,
-2026-10-09,21:00,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
-2026-10-09,21:00,Snack,yamaei goma monogatari fish sheet black sesame,12,piece,83,4.4,1.5,132,0.0,0,label per 100g: 346kcal; protein 18.2g; total fat 6.4g; sat fat 0g; sugar 16.6g; sodium 1575mg; \~2g/piece
+2026-10-08,21:00,Snack,seasoned tuna fish snack,1,piece,4.75,0.5,0.1,2.5,0.0,0,
+2026-10-08,21:00,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
+2026-10-08,21:00,Snack,yamaei goma monogatari fish sheet black sesame,12,piece,83,4.4,1.5,132,0.0,0,label per 100g: 346kcal; protein 18.2g; total fat 6.4g; sat fat 0g; sugar 16.6g; sodium 1575mg; \~2g/piece
 
 2026-10-09,08:15,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
 2026-10-09,08:15,Breakfast,quaker instant oatmeal,30,g,110,4.6,1.2,15,0.5,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
@@ -1386,3 +1386,43 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-10-09,14:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,425,1.25,0,2.0g plant sterol
 2026-10-09,15:30,Snack,edamame,56,g,68,6.6,1.2,36,0.4,0,10 muji coffee spoon (\~5.6g each estimated)
 2026-10-09,16:35,Snack,banana,140,g,125,1.5,0.4,14,0.1,0,whole weight; edible \~120g
+2026-10-09,19:09,Dinner,steamed chicken leg skinless,118.1,g,195,32.0,0.6,0,1.0,0,scale 118.1g; 去皮
+2026-10-09,19:09,Dinner,pan-fried salmon,35.6,g,75,8.0,0.3,0,1.0,0,scale 35.6g
+2026-10-09,19:09,Dinner,boiled lettuce,82.9,g,15,1.3,0.8,35,0.1,0,scale 82.9g
+2026-10-09,19:09,Dinner,bitter melon scrambled egg,80.7,g,95,7.5,0.8,20,1.1,0,scale 80.7g; 苦瓜炒蛋
+2026-10-09,19:09,Dinner,hairy gourd from soup,221.1,g,40,1.5,1.2,50,0.2,0,scale \~221g; 煲湯節瓜
+2026-10-09,19:09,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+2026-10-09,19:09,Dinner,lotus root hairy gourd corn lean pork soup,2,bowl,45,2.5,0.4,15,0.3,0,2 bowls liquid mainly
+2026-10-09,21:00,Snack,yamaei goma monogatari fish sheet black sesame,12,piece,83,4.4,1.5,132,0.0,0,label per 100g: 346kcal; protein 18.2g; total fat 6.4g; sat fat 0g; sugar 16.6g; sodium 1575mg; \~2g/piece
+2026-10-09,22:00,Beverage,carlsberg 0.0 non-alcoholic beer,1,can,60,0,0,0,0,0,
+
+2026-10-10,07:50,Breakfast,edamame,63,g,76,7.4,1.3,40,0.45,0,11 coffee spoon
+2026-10-10,08:00,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+2026-10-10,08:00,Breakfast,quaker instant oatmeal,21,g,77,3.2,0.8,10,0.35,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-10-10,08:00,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon powder; mixed in coffee
+2026-10-10,08:00,Beverage,ucc instant coffee,350,ml,5,0,0,0,0,50,1.5 spoon powder
+2026-10-10,08:00,Breakfast,envy apple,250,g,123,1.0,0.3,12,0.1,0,whole weight
+2026-10-10,11:30,Snack,quinoa & germ morning toast,45,g,119,4.5,0.4,20,0.36,0,1 piece; label per 100g: 265kcal; protein 10.1g; total fat 4.9g; sat fat 0.79g; sugar 10.7g; sodium 470mg
+2026-10-10,12:20,Lunch,grilled salmon belly onigiri,66.6,g,xx,xx,xx,xx,xx,0,shared 1/3 to matthew; label: 209kcal; protein 5.4g; sat fat 0.3g
+2026-10-10,13:18,Lunch,boiled lettuce,129,g,20,1.8,1.2,55,0.15,0,scale 129.0g
+2026-10-10,13:18,Lunch,bitter melon scrambled egg,82.8,g,95,7.5,0.8,20,1.1,0,scale 82.8g
+2026-10-10,13:18,Lunch,lean pork from soup,30,g,50,8.0,0.3,0,0.5,0,
+2026-10-10,13:18,Lunch,chicken breast,19.3,g,22,4.0,0.1,0,0.1,0,
+2026-10-10,13:18,Lunch,corn from soup,213,g,185,5.5,3.2,40,0.5,0,weighed with cob; edible portion estimated
+2026-10-10,13:18,Lunch,steamed chicken leg skinless,88.5,g,145,24.0,0.5,0,0.8,0,scale 88.5g; 去皮
+2026-10-10,13:18,Lunch,steamed white rice,50,g,55,1.2,0.2,3,0.05,0,small amount estimated
+2026-10-10,13:18,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,425,1.25,0,2.0g plant sterol
+2026-10-10,13:18,Beverage,ucc instant coffee,350,ml,5,0,0,0,0,50,1.5 spoon powder
+2026-10-10,13:18,Beverage,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 spoon powder; mixed in coffee
+2026-10-10,15:15,Snack,lotus root hairy gourd corn lean pork soup,1,bowl,25,1.5,0.2,10,0.2,0,1 bowl liquid mainly
+2026-10-10,17:30,Beverage,top soya soymilk no sugar,480,ml,126,13.0,0.9,140,1.0,0,label per 100ml: 26.3kcal; 2.7g protein; 1.5g total fat; 0.2g sat fat; 0.5g sugar; dietary fiber 1.2g; sodium 3.5mg
+2026-10-10,17:30,Lunch,edamame,48,g,58,5.6,1.0,30,0.3,0,8 coffee spoon
+2026-10-10,19:17,Dinner,boiled okra,94.4,g,31,1.8,0.7,40,0.1,0,scale on rice 94.4g
+2026-10-10,19:17,Dinner,stir-fried pepper with chicken,110,g,145,25.0,0.5,15,0.6,0,64.2+40.6g; 紅黃椒炒雞柳去皮
+2026-10-10,19:17,Dinner,stir-fried cucumber with bean sprouts,33.6,g,15,1.0,0.4,10,0.1,0,scale 33.6g
+2026-10-10,19:17,Dinner,boiled lettuce,82.6,g,15,1.3,0.8,35,0.1,0,
+2026-10-10,19:17,Dinner,hairy gourd from soup,96.8,g,18,0.8,0.6,25,0.1,0,煲湯節瓜
+2026-10-10,19:17,Dinner,pork steamed egg,22.6,g,30,3.0,0.3,10,0.4,0,豬肉蒸水蛋
+2026-10-10,19:17,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+2026-10-10,21:57,Snack,imuraya tofu dessert,200,g,124,4.0,0.6,50,0.6,0,label per 100g: 63kcal; protein 2.8g; total fat 1.7g; sat fat 0.2g; carbo 9.3g; sugar 8.1g; sodium 3.3mg
+2026-10-10,22:10,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.2,5,0.0,0,
