@@ -1,4 +1,34 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+2026-10-14,22:00,Snack,seasoned tuna fish snack,4,piece,19,2.0,0.3,10,0.0,0,\~2g each estimated
+2026-10-14,21:00,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
+2026-10-14,19:14,Dinner,tofu hairy gourd fish soup,2,bowl,60,4.0,0.5,25,0.3,0,2 bowls; 湯加節瓜
+2026-10-14,19:14,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+2026-10-14,19:14,Dinner,bitter melon with egg,54.7,g,35,2.5,0.5,25,0.5,0,沾到小許蛋; scale 54.7g
+2026-10-14,19:14,Dinner,stir-fried cucumber with chicken breast,81.9,g,95,16.0,0.5,15,0.5,0,青瓜炒雞胸去皮少油; scale 81.9g
+2026-10-14,19:14,Dinner,boiled lettuce,82.1,g,13,1.2,0.8,32,0.1,0,scale 82.1g
+2026-10-14,19:14,Dinner,boiled okra,84.8,g,28,1.7,0.6,37,0.1,0,scale 84.8g
+2026-10-14,16:50,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-10-14,16:50,Snack,edamame,23,g,28,2.7,0.5,15,0.15,0,3.3 muji coffee spoon
+2026-10-14,15:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-10-14,13:30,Lunch,banana,161,g,143,1.8,0.5,16,0.1,0,whole weight; edible \~145g
+2026-10-14,13:15,Lunch,maxims sourdough bread + croissant,105.4,g,320,8.5,12,45,5.0,0,mixed; \~55g croissant + \~50g sourdough; estimated sat fat from croissant
+2026-10-14,13:10,Lunch,baked chicken breast with pepper,181,g,199,36.2,0.9,0,0.5,0,only salt and pepper; skinless; \~110kcal/100g; consistent with previous entries sat fat 0.5g
+2026-10-14,13:05,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,425,1.25,0,2.0g plant sterol
+2026-10-14,13:00,Lunch,boiled okra,81.3,g,27,1.6,0.6,35,0.1,0,
+2026-10-14,11:15,Snack,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-10-14,10:30,Beverage,americano,450,ml,5,0,0,0,0,50,2 beans; filtered
+2026-10-14,09:55,Snack,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-10-14,09:50,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-10-14,08:50,Hydration,h2o,300,ml,0,0,0,0,0,0,
+2026-10-14,08:35,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-10-14,08:35,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-10-14,08:35,Breakfast,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-10-14,08:20,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+2026-10-14,08:15,Breakfast,banana,161,g,143,1.8,0.5,16,0.1,0,whole weight; edible \~145g
+2026-10-14,08:00,Breakfast,envy apple,265,g,130,1.0,0.3,12,0.1,0,whole weight
+2026-10-14,06:00,Beverage,vitasoy calci plus high protein soya milk,250,ml,112,10.0,0.4,425,0.75,0,label per 100ml: 45kcal; protein 4g; total fat 1.6g; sat fat 0.3; trans fat 0g; cholesterol 0mg;
+2026-10-14,03:50,Hydration,h2o,150,ml,0,0,0,0,0,0,
+
 2026-10-13,22:30,Hydration,h2o,300,ml,0,0,0,0,0,0,
 2026-10-13,21:30,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.2,5,0.0,0,
 2026-10-13,20:30,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
