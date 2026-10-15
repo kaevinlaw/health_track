@@ -1,4 +1,33 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+2026-10-15,21:30,Snack,hoshi fish snack,5,g,22,3.2,0.3,20,0.25,0,
+2026-10-15,21:20,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.2,5,0.0,0,
+2026-10-15,20:30,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
+2026-10-15,18:52,Dinner,boiled okra,91.1,g,30,1.8,0.7,39,0.1,0,scale 91.1g
+2026-10-15,18:52,Dinner,steamed tofu egg with crab roe,109,g,95,9.5,1.0,40,0.9,0,水蛋:豆腐 1:3; scale \~109g
+2026-10-15,18:52,Dinner,boiled lettuce,61,g,10,0.9,0.6,25,0.1,0,scale 61.0g
+2026-10-15,18:52,Dinner,stir-fried pork with hairy gourd and glass noodles,118,g,140,10.0,1.0,25,1.5,0,肉片15.7g + 節瓜49.8g + 粉絲52.5g
+2026-10-15,18:52,Dinner,pan-fried fish,50.2,g,80,12.0,0.4,0,0.8,0,scale \~50g edible; 去骨
+2026-10-15,18:52,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+2026-10-15,18:52,Dinner,pear apple soup,2,bowl,40,0.5,0.2,15,0.0,0,2 bowls liquid mainly
+2026-10-15,17:20,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.2,5,0.0,0,
+2026-10-15,17:20,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-10-15,17:00,Snack,sansui tofu dessert,1,pack,136,4.4,0.8,60,0.66,0,220g; label per 100g: 62kcal; 2g protein; 1.5g total fat; 0.3g sat fat; 9.5g sugars
+2026-10-15,15:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-10-15,14:30,Lunch,edamame,28,g,68,6.6,1.2,36,0.4,0,8 muji coffee spoon
+2026-10-15,14:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,425,1.25,0,2.0g plant sterol
+2026-10-15,14:30,Lunch,garden chia seed wheat sandwich bread,135,g,309,16.2,3.9,58,0.68,0,3 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g
+2026-10-15,14:30,Lunch,jonetz light tuna flakes non-oil skipjack tuna,70,g,47,11.3,1.1,40,0,0,donki; label per 100g: 67.1kcal; 16.1g protein; 0.4g total fat; 0g sat fat
+2026-10-15,14:30,Lunch,boiled okra,100,g,33,1.9,0.7,42,0.1,0,scale \~100g
+2026-10-15,11:00,Snack,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-10-15,11:00,Beverage,top soya organic extra rich soymilk no sugar,480,ml,196.8,18.24,1.44,48,1.44,0,label per 100ml: 41kcal; 3.8g protein; 2.0g total fat; 0.3g sat fat; 0.5g sugar
+2026-10-15,09:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-10-15,09:00,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.2,5,0.0,0,
+2026-10-15,08:45,Breakfast,envy apple,265,g,130,1.0,0.3,12,0.1,0,whole weight
+2026-10-15,08:15,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-10-15,08:15,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-10-15,08:15,Breakfast,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-10-15,08:10,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+
 2026-10-14,22:00,Snack,seasoned tuna fish snack,4,piece,19,2.0,0.3,10,0.0,0,\~2g each estimated
 2026-10-14,21:00,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
 2026-10-14,19:14,Dinner,tofu hairy gourd fish soup,2,bowl,60,4.0,0.5,25,0.3,0,2 bowls; 湯加節瓜
