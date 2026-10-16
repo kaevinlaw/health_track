@@ -1,4 +1,26 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+2026-10-16,17:05,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-10-16,16:30,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.2,5,0.0,0,
+2026-10-16,16:20,Beverage,coca cola coke regular,330,ml,xx,xx,xx,xx,xx,xx,
+2026-10-16,15:15,Lunch,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-10-16,15:00,Lunch,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-10-16,14:40,Lunch,envy apple,248.1,g,122,0.9,0.3,11,0.1,0,whole weight
+2026-10-16,14:30,Lunch,pan-fried fish,47,g,75,11.2,0.4,0,0.7,0,no bone no skin; scaled from previous similar entry
+2026-10-16,14:30,Lunch,boiled okra,70.2,g,23,1.4,0.5,30,0.1,0,
+2026-10-16,14:25,Lunch,garden chia seed wheat sandwich bread,45,g,103,5.4,0.4,12.5,0.225,0,1 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g; trans fat 0g; carbo 38.6g; dietary fibre 7.1g; sugar 0.7g; sodium 229mg; cholesterol 0mg
+2026-10-16,12:30,Snack,garden chia seed wheat sandwich bread,45,g,103,5.4,0.4,12.5,0.225,0,1 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g; trans fat 0g; carbo 38.6g; dietary fibre 7.1g; sugar 0.7g; sodium 229mg; cholesterol 0mg
+2026-10-16,12:00,Snack,seasoned tuna fish snack,4,piece,19,2.0,0.3,10,0.0,0,\~2g each estimated
+2026-10-16,11:50,Snack,garden chia seed wheat sandwich bread,45,g,103,5.4,0.4,12.5,0.225,0,1 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g; trans fat 0g; carbo 38.6g; dietary fibre 7.1g; sugar 0.7g; sodium 229mg; cholesterol 0mg
+2026-10-16,11:35,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-10-16,11:35,Snack,edamame,28,g,68,6.6,1.2,36,0.4,0,8 muji coffee spoon
+2026-10-16,10:00,Hydration,h2o,300,ml,0,0,0,0,0,0,
+2026-10-16,09:30,Beverage,top soya organic extra rich soymilk no sugar,480,ml,196.8,18.24,1.44,48,1.44,0,label per 100ml: 41kcal; 3.8g protein; 2.0g total fat; 0.3g sat fat; 0.5g sugar
+2026-10-16,08:40,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-10-16,08:40,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-10-16,08:40,Breakfast,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-10-16,08:40,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+2026-10-16,08:30,Breakfast,crystal pear,261.8,g,110,0.9,0.4,15,0.05,0,whole weight; edible \~230-240g; 水晶梨
+
 2026-10-15,21:30,Snack,hoshi fish snack,5,g,22,3.2,0.3,20,0.25,0,
 2026-10-15,21:20,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.2,5,0.0,0,
 2026-10-15,20:30,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
