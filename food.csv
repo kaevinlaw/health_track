@@ -1,4 +1,42 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+2026-10-17,19:15,Dinner,boiled green peas,115.7,g,95,6.5,1.5,35,0.2,0,青豆; scale \~115.7g
+2026-10-17,19:15,Dinner,shrimp,15,g,15,3.0,0.2,10,0.05,0,兩隻蝦仁
+2026-10-17,19:15,Dinner,stir-fried carrot cucumber with chicken,177.7,g,210,28.0,1.2,40,1.5,0,紅蘿蔔青瓜炒雞扒; 去皮少油
+2026-10-17,19:15,Dinner,boiled lettuce,132.6,g,20,1.8,0.8,50,0.1,0,scale \~132.6g
+2026-10-17,19:15,Dinner,stir-fried cucumber shrimp with egg,36.9,g,55,5.5,0.5,25,1.2,0,青瓜蝦仁炒蛋
+2026-10-17,19:15,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+
+2026-10-17,16:15,Snack,sweet potato tomato soup solids,80,g,55,1.5,0.4,15,0.1,0,昨晚湯渣; 主要蕃薯蕃茄; estimated
+
+2026-10-17,14:30,Beverage,ucc instant coffee,350,ml,5,0,0,0,0,50,1.5 spoon; 114
+
+2026-10-17,13:00,Lunch,boiled okra,77.8,g,26,1.6,0.6,33,0.1,0,scale 77.8g
+2026-10-17,13:00,Snack,edamame,20,g,xx,xx,xx,xx,xx,0,4 spoon
+2026-10-17,13:00,Lunch,steamed chicken wing meat,18,g,38,6.0,0.2,5,0.7,0,whole 29g; 只吃肉; 去皮去骨估計
+2026-10-17,13:00,Lunch,corn pork dumpling,42.9,g,95,5.5,0.6,15,1.8,0,粟米豬肉水餃; scale 42.9g
+2026-10-17,13:00,Lunch,boiled lettuce with carrot,106.6,g,25,1.5,0.6,40,0.1,0,紅蘿蔔生菜
+2026-10-17,13:00,Lunch,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+2026-10-17,13:00,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,425,1.25,0,2.0g plant sterol
+2026-10-17,13:00,Lunch,instant chicken breast,100,g,107,17.9,0.7,8,0.7,0,原味; label per 100g: 107.3kcal; protein 17.9g; total fat 2.4g; sat fat 0.7g
+
+2026-10-17,09:32,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+2026-10-17,09:32,Breakfast,boiled egg,1,piece,70,6.3,0.9,28,1.6,0,whole
+2026-10-17,09:32,Breakfast,quaker instant oatmeal,30,g,110,4.6,1.2,15,0.5,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-10-17,09:32,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-10-17,09:32,Beverage,ucc instant coffee,350,ml,5,0,0,0,0,50,1.5 spoon; 114
+2026-10-17,09:32,Breakfast,quinoa & germ morning toast,45,g,119,4.5,0.4,20,0.36,0,1 piece; label per 100g: 265kcal; protein 10.1g; total fat 4.9g; sat fat 0.79g
+
+2026-10-16,22:00,Snack,minced fish sesame mix (goma MIX),10,g,35,1.8,0.2,16,0.14,0,12 sticks; label per 100g: 350kcal; protein 18.3g; total fat 6.3g; sat fat 1.4g; carbo 55.8g; sugar 20.2g; sodium 1614mg
+
+2026-10-16,19:20,Dinner,boiled okra,114.1,g,38,2.3,0.8,48,0.1,0,scale 114.1g
+2026-10-16,19:20,Dinner,pan-fried flounder,67.9,g,95,15.0,0.5,0,1.0,0,比目魚; scale 67.9g; 去皮
+2026-10-16,19:20,Dinner,boiled lettuce,44.2,g,7,0.6,0.4,18,0.05,0,scale 44.2g
+2026-10-16,19:20,Dinner,stir-fried cucumber glass noodles with pork,55.9,g,70,5.0,0.5,15,0.8,0,青瓜粉絲48g + 肉片7.9g
+2026-10-16,19:20,Dinner,water chestnut pork patty,61.6,g,95,8.5,0.6,20,1.8,0,馬蹄肉餅; scale 61.6g
+2026-10-16,19:20,Dinner,steamed chicken wing meat,16.9,g,35,5.5,0.2,5,0.6,0,肉淨重; 去骨去皮
+2026-10-16,19:20,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+2026-10-16,19:20,Dinner,tomato potato fish soup,2,bowl,50,3.0,0.4,20,0.3,0,2 bowls + 小量薯仔
+
 2026-10-16,17:05,Hydration,h2o,450,ml,0,0,0,0,0,0,
 2026-10-16,16:30,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.2,5,0.0,0,
 2026-10-16,16:20,Beverage,coca cola coke regular,330,ml,xx,xx,xx,xx,xx,xx,
