@@ -1,4 +1,22 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+2026-10-23,19:00,Dinner,boiled okra,93.7,g,31,2.0,0.7,40,0.1,0,scale 93.7g
+2026-10-23,19:00,Dinner,baked black pepper chicken breast,30.6,g,34,7.0,0.2,3,0.15,0,去皮; 只鹽黑椒; scale 30.6g
+2026-10-23,19:00,Dinner,steamed chicken skinless,110.5,g,121,25.0,0.6,10,0.55,0,去皮; scale \~110.5g
+2026-10-23,19:00,Dinner,boiled lettuce,144.2,g,22,1.6,0.7,40,0.05,0,scale 144.2g
+2026-10-23,19:00,Dinner,stir-fried wood ear corn shrimp cucumber,137.3,g,95,12.5,0.5,35,0.4,0,木耳+粟米蕊+蝦仁+青瓜; 少油; scale 137.3g
+2026-10-23,19:00,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+2026-10-23,19:00,Dinner,corn carrot lean pork soup,2,bowl,45,2.5,0.3,25,0.2,0,liquid mainly
+2026-10-23,12:08,Lunch,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-10-23,11:54,Snack,banana,133.7,g,119,1.5,0.4,14,0.1,0,whole weight; edible \~120g
+2026-10-23,11:00,Hydration,h2o,650,ml,0,0,0,0,0,0,
+2026-10-23,10:00,Beverage,vitasoy calci plus high protein soya milk,250,ml,112,10.0,0.4,425,0.75,0,label per 100ml: 45kcal; protein 4g; total fat 1.6g; sat fat 0.3; trans fat 0g; cholesterol 0mg;
+2026-10-23,09:45,Breakfast,envy apple,230,g,114,0.9,0.2,10,0.1,0,whole weight; edible \~205g
+2026-10-23,08:50,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-10-23,08:50,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-10-23,08:50,Breakfast,quaker instant oatmeal,30,g,110,4.6,1.2,15,0.5,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-10-23,08:40,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+2026-10-23,08:10,Breakfast,corn from soup,207.2,g,176,5.6,1.6,38,0.4,0,weighed without cob; boiled
+
 2026-10-22,22:00,Beverage,carlsberg 0.0 non-alcoholic beer,1,can,60,0,0,0,0,0,
 2026-10-22,21:40,Snack,sansui tofu dessert,1,pack,136,4.4,0.8,60,0.66,0,220g; label per 100g: 62kcal; 2g protein; 1.5g total fat; 0.3g sat fat; 9.5g sugars
 2026-10-22,19:00,Dinner,boiled okra,67.5,g,22,1.4,0.5,28,0.07,0,scale 67.5g
@@ -32,7 +50,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-10-21,19:00,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
 2026-10-21,19:00,Dinner,winter melon tofu fish soup,2,bowl,50,3.0,0.3,25,0.2,0,湯 + 冬瓜; liquid mainly
 2026-10-21,16:30,Snack,steamed sweet potato,107.4,g,93,1.8,0.4,22,0.1,0,
-2026-10-21,15:45,Beverage,top soya soymilk original soymilk,500,ml,207,12.5,1.0,65,1.0,0,label per 100ml: 41.4kcal; 2.5 protein; 1.5g total fat; 0.2g sat fat; 4.3 carbohydrates; 3.9g sugar; dietary fiber 1g; sodium 3.8mg
+2026-10-21,15:45,Beverage,top soya original soymilk,500,ml,207,12.5,1.0,65,1.0,0,label per 100ml: 41.4kcal; 2.5 protein; 1.5g total fat; 0.2g sat fat; 4.3 carbohydrates; 3.9g sugar; dietary fiber 1g; sodium 3.8mg
 2026-10-21,14:30,Lunch,maxims sourdough bread sliced,112,g,267,10.3,2.3,51,0.45,0,label per 100g: 239kcal; protein 9.2g; total fat 2.1g; sat fat 0.4g
 2026-10-21,14:30,Lunch,baked chicken breast with pepper,165.8,g,182,34.0,0.8,15,0.8,0,only salt and pepper; skinless; \~110kcal/100g
 2026-10-21,14:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,425,1.25,0,2.0g plant sterol
