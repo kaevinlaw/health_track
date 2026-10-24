@@ -1,5 +1,8 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
 
+2026-10-25,05:30,Beverage,yakult,65,ml,xx,xx,xx,xx,xx,0,
+2026-10-25,05:30,Beverage,top soya organic extra rich soymilk no sugar,480,ml,196.8,18.24,1.44,48,1.44,0,label per 100ml: 41kcal; 3.8g protein; 2.0g total fat; 0.3g sat fat; 0.5g sugar
+
 2026-10-24,22:00,Snack,minced fish sesame mix (goma MIX),15.4,g,54,2.8,0.3,25,0.22,0,12 sticks; 5pcs=6.4g; label per 100g: 350kcal; protein 18.3g; total fat 6.3g; sat fat 1.4g; carbo 55.8g; sugar 20.2g; sodium 1614mg
 2026-10-24,22:00,Beverage,carlsberg 0.0 non-alcoholic beer,1,can,60,0,0,0,0,0,
 2026-10-24,20:30,Snack,seasoned tuna fish snack,8,piece,9.5,1.0,0.2,5,0.0,0,
