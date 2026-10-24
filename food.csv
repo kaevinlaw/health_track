@@ -1,4 +1,14 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+
+2026-10-24,10:50,Snack,edamame,22.5,g,27,2.6,0.5,14,0.15,0,4 coffee spoon
+2026-10-24,10:10,Snack,envy apple,230,g,114,0.9,0.2,10,0.1,0,whole weight; edible \~205g
+2026-10-24,10:30,Snack,hoshi crispy anchovy fish snack,5,piece,11,0.75,0.25,15,0.0,0,estimated \~6-6.5g; label sat fat 0g
+2026-10-24,10:00,Snack,avocado,43.9,g,70,0.9,0.7,5,0.9,0,weighted only edible portion; \~160kcal/100g
+2026-10-24,08:50,Beverage,ucc instant coffee,350,ml,5,0,0,0,0,50,1.5 spoon; 114
+2026-10-24,08:50,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-10-24,08:50,Breakfast,quaker instant oatmeal,30,g,110,4.6,1.2,15,0.5,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-10-24,07:00,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+
 2026-10-23,19:00,Dinner,boiled okra,93.7,g,31,2.0,0.7,40,0.1,0,scale 93.7g
 2026-10-23,19:00,Dinner,baked black pepper chicken breast,30.6,g,34,7.0,0.2,3,0.15,0,去皮; 只鹽黑椒; scale 30.6g
 2026-10-23,19:00,Dinner,steamed chicken skinless,110.5,g,121,25.0,0.6,10,0.55,0,去皮; scale \~110.5g
