@@ -1,4 +1,32 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+
+2026-10-24,22:00,Snack,minced fish sesame mix (goma MIX),15.4,g,54,2.8,0.3,25,0.22,0,12 sticks; 5pcs=6.4g; label per 100g: 350kcal; protein 18.3g; total fat 6.3g; sat fat 1.4g; carbo 55.8g; sugar 20.2g; sodium 1614mg
+2026-10-24,22:00,Beverage,carlsberg 0.0 non-alcoholic beer,1,can,60,0,0,0,0,0,
+2026-10-24,20:30,Snack,seasoned tuna fish snack,8,piece,9.5,1.0,0.2,5,0.0,0,
+2026-10-24,19:16,Dinner,grilled chicken garden salad no dressing,1,plate,280,28.0,1.2,25,0.8,0,走醬; 去皮烤雞; 生菜+青瓜+車厘茄+粟米+菠蘿
+2026-10-24,19:16,Dinner,plain spaghetti small portion,80,g,110,3.5,0.3,20,0.1,0,小量意粉; 無醬
+2026-10-24,19:16,Dinner,steamed sweet potato,120,g,104,2.0,0.4,24,0.1,0,自攜蒸蕃薯; 估計重量
+2026-10-24,21:20,Beverage,vitasoy calci plus original soya milk,250,ml,83,3.0,0.5,425,0.5,0,label per 100ml: 33kcal; protein 1.2g; total fat 1.3g; sat fat 0.2g
+2026-10-24,17:30,Snack,steamed sweet potato,80,g,xx,xx,xx,xx,xx,0,
+2026-10-24,17:30,Snack,seasoned tuna fish snack,4,piece,9.5,1.0,0.2,5,0.0,0,
+2026-10-24,17:00,Snack,minced fish sesame mix (goma MIX),15.4,g,54,2.8,0.3,25,0.22,0,12 sticks; 5pcs=6.4g; label per 100g: 350kcal; protein 18.3g; total fat 6.3g; sat fat 1.4g; carbo 55.8g; sugar 20.2g; sodium 1614mg
+2026-10-24,15:00,Beverage,asahi wonda black coffee,400,ml,5,0,0,0,0,80,
+2026-10-24,12:30,Lunch,skinless chicken thigh/breast,97.3,g,107,22.0,0.5,9,0.5,0,去皮; scale 97.3g
+2026-10-24,12:30,Lunch,boiled okra,87.0,g,29,1.9,0.6,37,0.1,0,scale 87g
+2026-10-24,12:30,Lunch,boiled lettuce,84.4,g,13,0.9,0.4,23,0.03,0,scale 84.4g
+2026-10-24,12:30,Lunch,shrimp scrambled egg,57.2,g,85,9.5,1.6,18,1.8,0,蝦仁炒蛋; scale 57.2g
+2026-10-24,12:30,Lunch,hairy gourd salted egg lean pork soup,1,bowl,40,3.0,0.3,25,0.3,0,無蛋黃; 半節瓜半湯
+2026-10-24,12:30,Lunch,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+2026-10-24,12:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,425,1.25,0,2.0g plant sterol
+2026-10-24,10:50,Snack,edamame,22.5,g,27,2.6,0.5,14,0.15,0,4 coffee spoon
+2026-10-24,10:10,Snack,envy apple,230,g,114,0.9,0.2,10,0.1,0,whole weight; edible \~205g
+2026-10-24,10:30,Snack,hoshi crispy anchovy fish snack,5,piece,11,0.75,0.25,15,0.0,0,estimated \~6-6.5g; label sat fat 0g
+2026-10-24,10:00,Snack,avocado,43.9,g,70,0.9,0.7,5,0.9,0,weighted only edible portion; \~160kcal/100g
+2026-10-24,08:50,Beverage,ucc instant coffee,350,ml,5,0,0,0,0,50,1.5 spoon; 114
+2026-10-24,08:50,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-10-24,08:50,Breakfast,quaker instant oatmeal,30,g,110,4.6,1.2,15,0.5,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-10-24,07:00,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+
 2026-10-23,19:00,Dinner,boiled okra,93.7,g,31,2.0,0.7,40,0.1,0,scale 93.7g
 2026-10-23,19:00,Dinner,baked black pepper chicken breast,30.6,g,34,7.0,0.2,3,0.15,0,去皮; 只鹽黑椒; scale 30.6g
 2026-10-23,19:00,Dinner,steamed chicken skinless,110.5,g,121,25.0,0.6,10,0.55,0,去皮; scale \~110.5g
