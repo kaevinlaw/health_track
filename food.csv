@@ -63,7 +63,13 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-10-23,19:00,Dinner,stir-fried wood ear corn shrimp cucumber,137.3,g,95,12.5,0.5,35,0.4,0,木耳+粟米蕊+蝦仁+青瓜; 少油; scale 137.3g
 2026-10-23,19:00,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
 2026-10-23,19:00,Dinner,corn carrot lean pork soup,2,bowl,45,2.5,0.3,25,0.2,0,liquid mainly
-2026-10-23,12:08,Lunch,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-10-23,15:00,Beverage,americano,450,ml,5,0,0,0,0,50,2 beans; filtered
+2026-10-23,14:48,Lunch,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-10-23,14:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,425,1.25,0,2.0g plant sterol
+2026-10-23,14:30,Lunch,garden chia seed wheat sandwich bread,90,g,206,10.8,0.8,25,0.45,0,2 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g
+2026-10-23,14:30,Lunch,baked chicken breast with pepper,158,g,xx,xx,xx,xx,xx,0,only salt and pepper; skinless; \~110kcal/100g
+2026-10-23,11:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-10-23,12:08,Snack,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
 2026-10-23,11:54,Snack,banana,133.7,g,119,1.5,0.4,14,0.1,0,whole weight; edible \~120g
 2026-10-23,11:00,Hydration,h2o,650,ml,0,0,0,0,0,0,
 2026-10-23,10:00,Beverage,vitasoy calci plus high protein soya milk,250,ml,112,10.0,0.4,425,0.75,0,label per 100ml: 45kcal; protein 4g; total fat 1.6g; sat fat 0.3; trans fat 0g; cholesterol 0mg;
@@ -86,6 +92,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-10-22,19:00,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
 2026-10-22,15:00,Lunch,banana,142.2,g,127,1.5,0.4,14,0.1,0,whole weight; edible \~128g
 2026-10-22,14:45,Lunch,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-10-22,14:45,Lunch,garden chia seed wheat sandwich bread,135,g,309,16.2,3.9,58,0.68,0,3 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g
 2026-10-22,14:23,Lunch,baked chicken breast with pepper,150,g,165,30.8,0.8,14,0.75,0,only salt and pepper; skinless; \~110kcal/100g
 2026-10-22,14:23,Lunch,boiled okra,41.5,g,14,0.9,0.3,18,0.05,0,
 2026-10-22,14:23,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,425,1.25,0,2.0g plant sterol
