@@ -21,7 +21,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-10-25,09:57,Breakfast,edamame,75.3,g,91,8.8,1.6,48,0.5,0,scale 75.3g
 2026-10-25,09:53,Breakfast,avocado,57.8,g,92,1.2,0.9,7,1.2,0,
 2026-10-25,09:57,Beverage,brown sugar ginger tea,100,g,372,0.0,0.0,0,0.0,0,label per 100g: 1556kJ (372kcal); protein 0g; total fat 0g; sat fat 0g; carbo 91.5g; sugar 86.6g
-2026-10-25,07:20,Breakfast,envy apple,288,g,xx,xx,xx,xx,xx,0,whole weight;
+2026-10-25,07:20,Breakfast,envy apple,288,g,142,1.1,0.3,13,0.1,0,whole weight; edible \~255g
 2026-10-25,07:20,Beverage,ucc instant coffee,350,ml,5,0,0,0,0,50,1.5 spoon; 117
 2026-10-25,07:20,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
 2026-10-25,07:10,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
@@ -67,7 +67,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-10-23,14:48,Lunch,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
 2026-10-23,14:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,425,1.25,0,2.0g plant sterol
 2026-10-23,14:30,Lunch,garden chia seed wheat sandwich bread,90,g,206,10.8,0.8,25,0.45,0,2 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g
-2026-10-23,14:30,Lunch,baked chicken breast with pepper,158,g,xx,xx,xx,xx,xx,0,only salt and pepper; skinless; \~110kcal/100g
+2026-10-23,14:30,Lunch,baked chicken breast with pepper,158,g,174,34.8,0.8,14,0.8,0,only salt and pepper; skinless; \~110kcal/100g
 2026-10-23,11:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
 2026-10-23,12:08,Snack,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
 2026-10-23,11:54,Snack,banana,133.7,g,119,1.5,0.4,14,0.1,0,whole weight; edible \~120g
