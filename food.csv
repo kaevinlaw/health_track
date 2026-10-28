@@ -1,4 +1,35 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+haribo happy cola 1 small pack
+2026-10-28,22:00,Snack,sansui tofu dessert,1,pack,136,4.4,0.8,60,0.66,0,220g; label per 100g: 62kcal; 2g protein; 1.5g total fat; 0.3g sat fat; 9.5g sugars
+2026-10-28,20:30,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
+2026-10-28,18:52,Dinner,stir-fried chicken fillet,13.8,g,15,3.2,0.1,1,0.1,0,去皮雞柳; scale 13.8g
+2026-10-28,18:52,Dinner,potato,24.4,g,20,0.5,0.1,5,0.0,0,薯仔; scale 24.4g
+2026-10-28,18:52,Dinner,stir-fried shrimp,27.7,g,28,6.0,0.1,0,0.1,0,蝦; scale 27.7g
+2026-10-28,18:52,Dinner,stir-fried cucumber,27.7,g,5,0.3,0.1,8,0.0,0,青瓜; scale 27.7g
+2026-10-28,18:52,Dinner,wood ear mushroom,16.9,g,8,0.5,0.1,10,0.0,0,木耳; scale 16.9g
+2026-10-28,18:52,Dinner,shrimp cucumber wood ear leftover,14.7,g,12,2.0,0.1,3,0.1,0,蝦青瓜木耳剩餘; scale 14.7g
+2026-10-28,18:52,Dinner,boiled lettuce,109,g,16,1.5,0.5,40,0.05,0,生菜; scale 109g
+2026-10-28,18:52,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+2026-10-28,18:52,Dinner,hairy gourd carrot lean pork soup,2,bowl,50,3.0,0.4,25,0.4,0,節瓜紅蘿蔔瘦肉湯; liquid + carrot mainly
+2026-10-28,16:40,Snack,haribo happy cola mini pack,1,pack,42,0.9,0.0,0,0.0,0,small pack \~12-13g; sat fat \~0g
+2026-10-28,16:20,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-10-28,14:30,Beverage,top soya soymilk no sugar,480,ml,126,13.0,0.9,140,1.0,0,
+2026-10-28,14:30,Lunch,garden chia seed wheat sandwich bread,135,g,309,16.2,3.9,58,0.68,0,3 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g
+2026-10-28,14:30,Lunch,boiled okra,73.7,g,24,1.6,0.5,32,0.1,0,scale 73.7g
+2026-10-28,14:30,Lunch,baked black pepper chicken breast,201.2,g,221,44.0,1.0,16,1.0,0,去皮; 只鹽黑椒; \~110kcal/100g
+2026-10-28,13:20,Hydration,h2o,620,ml,0,0,0,0,0,0,
+2026-10-28,12:30,Beverage,brown sugar ginger tea,100,g,372,0.0,0.0,0,0.0,0,label per 100g: 1556kJ (372kcal); protein 0g; total fat 0g; sat fat 0g; carbo 91.5g; sugar 86.6g
+2026-10-28,12:00,Snack,edamame,28,g,68,6.6,1.2,36,0.4,0,8 muji coffee spoon
+2026-10-28,11:15,Snack,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
+2026-10-28,11:00,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-10-28,10:40,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-10-28,10:40,Breakfast,quaker instant oatmeal,13,g,48,2.0,0.5,7,0.2,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-10-28,09:40,Snack,banana,1,piece,174,2.1,0.6,20,0.2,0,whole weight \~196g
+2026-10-28,08:15,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-10-28,08:15,Breakfast,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-10-28,08:20,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-10-28,08:15,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+
 2026-10-27,22:00,Beverage,top soya organic extra rich soymilk no sugar,480,ml,196.8,18.24,1.44,48,1.44,0,label per 100ml: 41kcal; 3.8g protein; 2.0g total fat; 0.3g sat fat; 0.5g sugar
 2026-10-27,19:10,Dinner,boiled okra,88.3,g,29,1.9,0.6,38,0.1,0,scale 88.3g
 2026-10-27,19:10,Dinner,baked black pepper chicken breast,44.8,g,49,10.0,0.2,4,0.2,0,去皮; 只鹽黑椒; scale 44.8g
@@ -15,7 +46,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-10-27,12:05,Lunch,baked black pepper chicken breast,127.8,g,140,28.0,0.6,10,0.6,0,去皮; 只鹽黑椒; scale 127.8g
 2026-10-27,12:05,Lunch,maxims sourdough bread,114.4,g,273,10.5,2.4,52,0.46,0,label per 100g: 239kcal; protein 9.2g; total fat 2.1g; sat fat 0.4g
 2026-10-27,12:05,Lunch,boiled okra,100,g,33,2.1,0.7,42,0.1,0,scale 100g
-2026-10-27,10:32,Snack,banana,209,g,xx,xx,xx,xx,xx,0,whole weight;
+2026-10-27,10:32,Snack,banana,209,g,186,2.3,0.6,21,0.2,0,whole weight; edible \~185g
 2026-10-27,09:35,Hydration,h2o,450,ml,0,0,0,0,0,0,
 2026-10-27,08:20,Breakfast,quaker instant oatmeal,45,g,165,6.8,1.8,23,0.8,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
 2026-10-27,08:20,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
@@ -113,6 +144,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-10-23,19:00,Dinner,stir-fried wood ear corn shrimp cucumber,137.3,g,95,12.5,0.5,35,0.4,0,木耳+粟米蕊+蝦仁+青瓜; 少油; scale 137.3g
 2026-10-23,19:00,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
 2026-10-23,19:00,Dinner,corn carrot lean pork soup,2,bowl,45,2.5,0.3,25,0.2,0,liquid mainly
+2026-10-23,16:40,Snack,haribo goldbaren soft mini pack,1,pack,45,0.8,0.0,0,0.0,0,small pack; sat fat \~0g
 2026-10-23,15:00,Beverage,americano,450,ml,5,0,0,0,0,50,2 beans; filtered
 2026-10-23,14:48,Lunch,edamame,28,g,34,3.3,0.6,18,0.2,0,4 muji coffee spoon
 2026-10-23,14:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,425,1.25,0,2.0g plant sterol
