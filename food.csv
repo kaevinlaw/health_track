@@ -1,4 +1,21 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+2026-10-31,12:45,Lunch,boiled okra,76.9,g,25,1.6,0.5,33,0.1,0,scale 76.9g
+2026-10-31,12:45,Lunch,pan-fried chicken fillet with potato,123.3,g,145,22.0,1.0,15,0.8,0,煎雞柳薯仔; scale 123.3g (net after leftover)
+2026-10-31,12:45,Lunch,pan-fried salmon,36.6,g,75,7.5,1.2,0,0.9,0,煎三文魚; scale 36.6g (28g + 部分)
+2026-10-31,12:45,Lunch,boiled lettuce,70,g,10,0.9,0.3,25,0.03,0,生菜; \~70g
+2026-10-31,12:45,Lunch,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+2026-10-31,12:45,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,1.6,425,1.25,0,2.0g plant sterol; sat fat 0.5g/100ml
+2026-10-31,12:45,Snack,envy apple,263,g,130,1.0,0.3,12,0.1,0,whole weight; scale 262.9g
+2026-10-31,11:49,Snack,steamed sweet potato,52.9,g,45,0.8,0.1,11,0.04,0,scale 52.9g
+2026-10-31,10:00,Snack,steamed sweet potato,187.3,g,160,2.9,0.3,40,0.15,0,scale 187.3g
+2026-10-31,08:30,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.2,5,0.0,0,
+2026-10-31,08:10,Breakfast,quaker instant oatmeal,30,g,110,4.6,1.2,15,0.5,0,dry weight
+2026-10-31,08:10,Beverage,ucc instant coffee,350,ml,5,0,0,0,0,50,1.5 spoon; 117
+2026-10-31,08:10,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-10-31,08:10,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+2026-10-31,07:29,Snack,banana,1,piece,170,1.9,0.5,20,0.2,0,whole weight \~190g
+2026-10-31,07:09,Beverage,vitasoy calci plus high protein soya milk,250,ml,112,10.0,0.4,425,0.75,0,label per 100ml: 45kcal; protein 4g; total fat 1.6g; sat fat 0.3; trans fat 0g; cholesterol 0mg;
+
 2026-10-30,21:30,Beverage,carlsberg 0.0 non-alcoholic beer,1,can,60,0,0,0,0,0,
 2026-10-30,21:00,Snack,minced fish sesame mix (goma MIX),15.4,g,54,2.8,0.3,25,0.22,0,12 sticks; 5pcs=6.4g; label per 100g: 350kcal; protein 18.3g; total fat 6.3g; sat fat 1.4g; carbo 55.8g; sugar 20.2g; sodium 1614mg
 2026-10-30,19:04,Dinner,boiled okra,87.1,g,29,1.8,0.6,38,0.1,0,scale 87.1g
