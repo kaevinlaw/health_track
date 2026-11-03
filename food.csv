@@ -1,5 +1,34 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+2026-11-03,21:30,Snack,seasoned tuna fish snack,4,piece,9.5,1.0,0.2,5,0.0,0,
+2026-11-03,20:30,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
+2026-11-03,20:30,Snack,hoshi crispy anchovy fish snack,10,piece,22,1.5,0.5,30,0.0,0,estimated \~12-13g; label sat fat 0g
+2026-11-03,18:47,Dinner,boiled okra,74.3,g,25,1.5,0.5,32,0.1,0,scale 74.3g
+2026-11-03,18:47,Dinner,soup residue lean pork,120.9,g,180,28.0,1.8,10,1.5,0,湯渣西施骨/瘦肉; scale \~120.9g
+2026-11-03,18:47,Dinner,fish maw,38.7,g,45,8.0,0.2,5,0.1,0,魚肚; scale \~38.7g
+2026-11-03,18:47,Dinner,fried tofu puff,31.4,g,55,3.5,0.8,10,0.6,0,豆卜; scale \~31.4g
+2026-11-03,18:47,Dinner,chicken fillet,20,g,22,4.5,0.1,2,0.1,0,雞柳; \~20g
+2026-11-03,18:47,Dinner,mushroom,10,g,3,0.3,0.0,1,0.0,0,蘑菇; \~10g
+2026-11-03,18:47,Dinner,boiled choi sum,188.7,g,30,2.8,0.8,80,0.1,0,菜心; scale 188.7g (or higher if 286g)
+2026-11-03,18:47,Dinner,stir-fried hairy gourd bean sprout dried shrimp,69.4,g,55,4.5,0.5,25,0.4,0,節瓜芽菜炒蝦米; scale 69.4g
+2026-11-03,18:47,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+2026-11-03,18:47,Dinner,lotus root carrot corn pork bone soup,2,bowl,80,4.0,0.6,30,0.5,0,蓮藕紅蘿蔔西施骨粟米湯; liquid mainly
+2026-11-03,14:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,1.6,425,1.25,0,2.0g plant sterol; sat fat 0.5g/100ml
+2026-11-03,14:30,Dinner,edamame,1,box,80,8.0,1.5,40,0.5,0,
+2026-11-03,14:30,Lunch,quaker instant oatmeal,30,g,110,4.6,1.2,15,0.5,0,dry weight
+2026-11-03,14:30,Lunch,garden chia seed wheat sandwich bread,45,g,103,5.4,0.4,12.5,0.225,0,1 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g; trans fat 0g; carbo 38.6g; dietary fibre 7.1g; sugar 0.7g; sodium 229mg; cholesterol 0mg
+2026-11-03,14:30,Lunch,garlic steamed chicken breast skin removed,182.8,g,201,40.0,0.9,15,0.9,0,蒜頭蒸雞胸去皮; \~110kcal/100g
+2026-11-03,12:15,Snack,banana,1,piece,159,1.8,0.5,18,0.2,0,whole weight \~179g
+2026-11-03,11:14,Snack,garden chia seed wheat sandwich bread,90,g,206,10.8,0.8,25,0.45,0,2 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g
+2026-11-03,11:14,Beverage,americano,450,ml,5,0,0,0,0,50,2 beans; filtered
+2026-11-03,09:47,Beverage,vitasoy calci plus original soya milk,250,ml,83,3.0,0.5,425,0.5,0,label per 100ml: 33kcal; protein 1.2g; total fat 1.3g; sat fat 0.2g
+2026-11-03,09:39,Snack,banana,1,piece,175,2.0,0.5,20,0.2,0,whole weight \~197g
+2026-11-03,09:30,Hydration,h2o,450,ml,0,0,0,0,0,0,
+2026-11-03,08:28,Breakfast,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-11-03,08:28,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-11-03,08:28,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-11-03,08:28,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
 
+2026-11-02,21:00,Snack,hoshi crispy anchovy fish snack,15,piece,xx,xx,xx,xx,xx,0,estimated \~12-13g; label sat fat 0g
 2026-11-02,18:59,Dinner,boiled okra,98.9,g,33,2.0,0.6,42,0.1,0,scale 98.9g
 2026-11-02,18:59,Dinner,stir-fried bitter melon with bean paste,73.2,g,55,3.5,0.6,25,0.5,0,豆板醬苦瓜; scale 73.2g
 2026-11-02,18:59,Dinner,boiled choi sum,50.8,g,10,1.0,0.3,30,0.05,0,菜心; scale 50.8g
@@ -34,7 +63,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-11-01,13:15,Beverage,sunshine apple juice drink,250,ml,123,0.0,0.0,0,0.0,0,陽光蘋果汁; label per 100ml: 49kcal; protein 0g; total fat 0g; sat fat 0g; carb 12g; sugar 12g
 2026-11-01,11:40,Snack,seasoned tuna fish snack,3,piece,xx,xx,xx,xx,xx,0,
 2026-11-01,11:30,Snack,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
-2026-11-01,11:30,Beverage,vitasoy original soymilk,250,ml,118,4.5,1.0,15,1.0,0,維他奶; label per 100ml: 47kcal; protein 1.8g; total fat 1.5g; sat fat 0.4g; carb 6.6g; sugar 6.5g
+2026-11-01,11:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,1.6,425,1.25,0,2.0g plant sterol; sat fat 0.5g/100ml
 2026-11-01,09:30,Beverage,mr brown pure brew sicily black coffee,350,ml,95,0.7,0.0,0,0.0,0,Mr Brown 西西里檸檬美式; label per 100ml: 27kcal; protein 0.2g; total fat 0g; sat fat 0g; carb 6.6g; sugar 6g
 2026-11-01,05:00,Breakfast,quinoa & germ morning toast,45,g,119,4.5,0.4,20,0.36,0,1 piece; label per 100g: 265kcal; protein 10.1g; total fat 4.9g; sat fat 0.79g
 2026-11-01,05:00,Breakfast,quinoa & germ morning toast,45,g,119,4.5,0.4,20,0.36,0,1 piece; label per 100g: 265kcal; protein 10.1g; total fat 4.9g; sat fat 0.79g
