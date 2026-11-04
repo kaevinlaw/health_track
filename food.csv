@@ -1,4 +1,27 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+2026-11-04,19:00,Dinner,boiled okra,70.9,g,24,1.4,0.5,30,0.1,0,scale 70.9g
+2026-11-04,19:00,Dinner,stir-fried potato with chicken fillet,95,g,130,14.0,0.8,12,0.6,0,薯仔雞柳; scale \~95g (photo 81.9g portion)
+2026-11-04,19:00,Dinner,stir-fried cucumber with egg,106.4,g,95,8.5,1.8,20,1.2,0,青瓜炒蛋; scale 106.4g
+2026-11-04,19:00,Dinner,boiled choi sum,103.4,g,16,1.5,0.5,45,0.05,0,菜心; scale 103.4g
+2026-11-04,19:00,Dinner,steamed white rice,1,bowl,170,3.5,0.5,8,0.1,0,\~150g cooked
+2026-11-04,19:00,Dinner,fish soup,2,bowl,60,4.0,0.4,25,0.3,0,魚湯; liquid mainly
+2026-11-04,16:23,Lunch,steamed sweet potato,74.5,g,xx,xx,xx,xx,xx,0,
+2026-11-04,16:00,Beverage,brown sugar ginger tea,100,g,372,0.0,0.0,0,0.0,0,label per 100g: 1556kJ (372kcal); protein 0g; total fat 0g; sat fat 0g; carbo 91.5g; sugar 86.6g
+2026-11-04,14:30,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-11-04,12:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,1.6,425,1.25,0,2.0g plant sterol; sat fat 0.5g/100ml
+2026-11-04,12:30,Lunch,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-11-04,12:30,Lunch,garlic steamed chicken breast skin removed,171.9,g,189,37.8,0.9,15,0.9,0,蒜頭蒸雞胸去皮; \~110kcal/100g
+2026-11-04,12:30,Lunch,envy apple,236,g,116,0.9,0.3,12,0.1,0,whole weight; edible \~210g
+2026-11-04,12:30,Lunch,steamed sweet potato,47.1,g,40,0.7,0.1,11,0.05,0,scale 47.1g
+2026-11-04,09:45,Snack,banana,1,piece,165,1.9,0.5,19,0.2,0,whole weight \~185.6g
+2026-11-04,08:15,Breakfast,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-11-04,08:15,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-11-04,08:15,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-11-04,08:15,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+2026-11-04,07:45,Breakfast,corn from soup,207.2,g,176,5.6,1.6,38,0.4,0,weighed without cob; boiled
+2026-11-04,06:05,Beverage,vitasoy calci plus original soya milk,250,ml,83,3.0,0.5,425,0.5,0,label per 100ml: 33kcal; protein 1.2g; total fat 1.3g; sat fat 0.2g
+2026-11-04,06:30,Snack,seasoned tuna fish snack,4,piece,9.5,1.0,0.2,5,0.0,0,
+
 2026-11-03,21:30,Snack,seasoned tuna fish snack,4,piece,9.5,1.0,0.2,5,0.0,0,
 2026-11-03,20:30,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
 2026-11-03,20:30,Snack,hoshi crispy anchovy fish snack,10,piece,22,1.5,0.5,30,0.0,0,estimated \~12-13g; label sat fat 0g
@@ -28,7 +51,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-11-03,08:28,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
 2026-11-03,08:28,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
 
-2026-11-02,21:00,Snack,hoshi crispy anchovy fish snack,15,piece,xx,xx,xx,xx,xx,0,estimated \~12-13g; label sat fat 0g
+2026-11-02,21:00,Snack,hoshi crispy anchovy fish snack,15,piece,33,2.3,0.75,45,0.0,0,estimated \~18-20g; label sat fat 0g; \~2.2g each
 2026-11-02,18:59,Dinner,boiled okra,98.9,g,33,2.0,0.6,42,0.1,0,scale 98.9g
 2026-11-02,18:59,Dinner,stir-fried bitter melon with bean paste,73.2,g,55,3.5,0.6,25,0.5,0,豆板醬苦瓜; scale 73.2g
 2026-11-02,18:59,Dinner,boiled choi sum,50.8,g,10,1.0,0.3,30,0.05,0,菜心; scale 50.8g
@@ -61,7 +84,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-11-01,20:30,Beverage,carlsberg 0.0 non-alcoholic beer,1,can,60,0,0,0,0,0,
 2026-11-01,13:15,Lunch,japanese chicken steak spaghetti skin removed,1,serving,480,32.0,3.5,45,2.2,0,日式雞扒意粉去皮; 雞扒約120-140g + 意粉 + 白菜芽菜
 2026-11-01,13:15,Beverage,sunshine apple juice drink,250,ml,123,0.0,0.0,0,0.0,0,陽光蘋果汁; label per 100ml: 49kcal; protein 0g; total fat 0g; sat fat 0g; carb 12g; sugar 12g
-2026-11-01,11:40,Snack,seasoned tuna fish snack,3,piece,xx,xx,xx,xx,xx,0,
+2026-11-01,11:40,Snack,seasoned tuna fish snack,3,piece,14,1.5,0.3,8,0.1,0,\~1.45g each;
 2026-11-01,11:30,Snack,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
 2026-11-01,11:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,1.6,425,1.25,0,2.0g plant sterol; sat fat 0.5g/100ml
 2026-11-01,09:30,Beverage,mr brown pure brew sicily black coffee,350,ml,95,0.7,0.0,0,0.0,0,Mr Brown 西西里檸檬美式; label per 100ml: 27kcal; protein 0.2g; total fat 0g; sat fat 0g; carb 6.6g; sugar 6g
