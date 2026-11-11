@@ -1,4 +1,32 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+2026-11-11,21:30,Snack,dried whole crab snack,8,g,24,1.25,0.25,6,0.035,0,石丸弥蔵 まるごと黄金カニ; 2隻; label per 100g: 302kcal; protein 15.9g; total fat 1.4g; sat fat 0.43g; sugar 52.5g
+2026-11-11,18:45,Dinner,tofu hairy gourd fish soup,2,bowl,80,5.0,0.6,30,0.5,0,豆腐節瓜魚湯兩碗; liquid + some gourd
+2026-11-11,18:45,Dinner,boiled okra,70.3,g,24,1.5,0.4,30,0.1,0,scale 70.3g
+2026-11-11,18:45,Dinner,pan-fried Greenland halibut skin bone removed,60.7,g,110,10.5,0.4,15,1.8,0,格陵蘭比目魚; 去皮去骨; sat fat較高
+2026-11-11,18:45,Dinner,stir-fried wood ear cucumber shrimp,161.9,g,75,9.5,1.2,40,0.6,0,木耳35.8g + 青瓜96.1g + 蝦仁30g
+2026-11-11,18:45,Dinner,stir-fried chicken fillet mushroom potato,54.9,g,70,12.0,0.5,10,0.5,0,雞柳42g + 菇9.6g + 薯仔3.3g
+2026-11-11,18:45,Dinner,steamed white rice,1.3,bowl,220,4.5,0.4,10,0.15,0,\~195g cooked
+2026-11-11,18:45,Dinner,hairy gourd from soup,140.9,g,25,1.0,0.3,25,0.1,0,煲湯節瓜; scale 140.9g
+2026-11-11,18:45,Dinner,boiled choi sum,104.4,g,18,1.8,0.6,50,0.1,0,scale 104.4g
+2026-11-11,17:05,Snack,almonds,10,g,60,2.2,0.8,26,0.4,0,10 pieces
+2026-11-11,15:15,Beverage,coca cola coke regular,330,ml,140,0,0,0,0,0,regular; \~35g sugar
+2026-11-11,15:00,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.2,5,0.0,0,
+2026-11-11,12:50,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,1.6,425,1.25,0,2.0g plant sterol; sat fat 0.5g/100ml
+2026-11-11,12:50,Lunch,steamed chicken breast skin removed,167.7,g,185,42.0,0.8,12,1.2,0,蒸雞胸肉去皮; scale 167.7g
+2026-11-11,12:50,Lunch,maxims sourdough bread,101.2,g,242,9.3,0.7,25,0.4,0,label per 100g: 239kcal; protein 9.2g; total fat 2.1g; sat fat 0.4g
+2026-11-11,11:10,Snack,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+2026-11-11,09:20,Beverage,brown sugar ginger tea,100,g,372,0.0,0.0,0,0.0,0,label per 100g: 1556kJ (372kcal); protein 0g; total fat 0g; sat fat 0g; carbo 91.5g; sugar 86.6g
+2026-11-11,09:00,Breakfast,envy apple,266.5,g,131,1.0,0.3,12,0.1,0,whole weight; edible \~230g
+2026-11-11,08:00,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-11-11,08:00,Breakfast,quaker instant oatmeal,44,g,162,6.7,1.7,22,0.75,0,dry weight
+2026-11-11,08:00,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-11-11,08:00,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+2026-11-11,07:33,Snack,banana,1,piece,152,1.7,0.4,18,0.2,0,whole weight \~171.5g
+2026-11-11,06:30,Beverage,vitasoy calci plus high protein soya milk,250,ml,112,10.0,0.4,425,0.75,0,label per 100ml: 45kcal; protein 4g; total fat 1.6g; sat fat 0.3; trans fat 0g; cholesterol 0mg;
+2026-11-11,05:06,Beverage,pocari sweat,330,ml,80,0,0,0,0,0,1 can; electrolyte drink
+2026-11-11,04:20,Snack,banana,1,piece,117,1.3,0.3,14,0.15,0,whole weight \~131.2g
+2026-11-11,03:08,Breakfast,maxims sourdough bread,58.7,g,140,5.4,0.4,15,0.23,0,label per 100g: 239kcal; protein 9.2g; total fat 2.1g; sat fat 0.4g
+
 2026-11-10,21:30,Snack,dried whole crab snack,8,g,24,1.25,0.25,6,0.035,0,石丸弥蔵 まるごと黄金カニ; 2隻; label per 100g: 302kcal; protein 15.9g; total fat 1.4g; sat fat 0.43g; sugar 52.5g
 2026-11-10,19:03,Dinner,pear papaya carrot lean pork soup,2,bowl,60,3.5,0.4,20,0.3,0,雪梨木瓜紅蘿蔔瘦肉湯; liquid mainly
 2026-11-10,19:03,Dinner,boiled okra,82.8,g,28,1.7,0.5,35,0.1,0,scale 82.8g
