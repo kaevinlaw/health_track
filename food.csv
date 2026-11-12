@@ -1,4 +1,19 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+2026-11-12,14:50,Lunch,envy apple,292,g,144,1.1,0.3,13,0.1,0,whole weight; edible \~250g
+2026-11-12,14:20,Lunch,pan-fried Greenland halibut,113.4,g,210,16.3,0.7,20,2.7,0,格陵蘭比目魚; scale 113.4g
+2026-11-12,14:20,Lunch,edamame,78.2,g,94,9.2,1.5,50,0.6,0,
+2026-11-12,14:20,Lunch,maxims sourdough bread,62.8,g,150,5.8,0.5,18,0.25,0,label per 100g: 239kcal; protein 9.2g; total fat 2.1g; sat fat 0.4g
+2026-11-12,14:20,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,1.6,425,1.25,0,2.0g plant sterol; sat fat 0.5g/100ml
+2026-11-12,10:55,Beverage,americano,450,ml,5,0,0,0,0,25,1 beans; filtered
+2026-11-12,10:20,Breakfast,banana,1,piece,145,1.6,0.4,17,0.2,0,whole weight \~163.6g
+2026-11-12,10:15,Breakfast,garden chia seed wheat sandwich bread,45,g,103,5.4,0.4,12.5,0.225,0,1 pieces; label per 100g 229kcal; protein 12g; total fat 2.9g; sat fat 0.5g; trans fat 0g; carbo 38.6g; dietary fibre 7.1g; sugar 0.7g; sodium 229mg; cholesterol 0mg
+2026-11-12,09:00,Breakfast,banana,1,piece,169,1.9,0.5,20,0.2,0,whole weight \~190g
+2026-11-12,08:40,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-11-11,08:40,Breakfast,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-11-12,08:40,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-11-12,08:30,Beverage,top soya organic extra rich soymilk no sugar,320,ml,131,12.2,1.0,32,0.96,0,label per 100ml: 41kcal; 3.8g protein; 2.0g total fat; 0.3g sat fat
+2026-11-12,08:30,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+
 2026-11-11,21:30,Snack,dried whole crab snack,8,g,24,1.25,0.25,6,0.035,0,石丸弥蔵 まるごと黄金カニ; 2隻; label per 100g: 302kcal; protein 15.9g; total fat 1.4g; sat fat 0.43g; sugar 52.5g
 2026-11-11,18:45,Dinner,tofu hairy gourd fish soup,2,bowl,80,5.0,0.6,30,0.5,0,豆腐節瓜魚湯兩碗; liquid + some gourd
 2026-11-11,18:45,Dinner,boiled okra,70.3,g,24,1.5,0.4,30,0.1,0,scale 70.3g
@@ -41,7 +56,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-11-10,16:50,Snack,imuraya tofu dessert,200,g,124,4.0,0.6,50,0.6,0,label per 100g: 63kcal; protein 2.8g; total fat 1.7g; sat fat 0.2g; carbo 9.3g; sugar 8.1g; sodium 3.3mg
 2026-11-10,15:30,Snack,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
 2026-11-10,15:30,Beverage,brown sugar ginger tea,100,g,372,0.0,0.0,0,0.0,0,label per 100g: 1556kJ (372kcal); protein 0g; total fat 0g; sat fat 0g; carbo 91.5g; sugar 86.6g
-2026-11-10,14:30,Lunch,pan-fried flounder/sole,86,g,120,18.0,0.5,25,1.0,0,煎比目魚; 去皮骨後淨肉約86g (scale 135g - 49g bones/skin)
+2026-11-10,14:30,Lunch,pan-fried Greenland halibut,86,g,160,16.5,0.6,20,2.1,0,原記flounder/sole; 實際格陵蘭比目魚; 去皮骨後淨肉86g
 2026-11-10,14:30,Lunch,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
 2026-11-10,14:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,1.6,425,1.25,0,2.0g plant sterol; sat fat 0.5g/100ml
 2026-11-10,14:30,Lunch,envy apple,271.8,g,133,1.0,0.3,12,0.1,0,whole weight; edible \~235g
@@ -417,7 +432,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-10-26,14:50,Beverage,americano,450,ml,5,0,0,0,0,50,2 beans; filtered
 2026-10-26,14:45,Snack,banana,196,g,174,2.1,0.6,20,0.2,0,whole weight; edible \~175g
 2026-10-26,14:30,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5,,425,1.25,0,2.0g plant sterol
-2026-10-26,14:30,Dinner,pan-fried halibut,67.6,g,75,14.0,0.4,0,0.3,0,煎比目魚; 去皮去骨; scale 67.6g
+2026-10-26,14:30,Dinner,pan-fried Greenland halibut,67.6,g,125,13.0,0.5,15,1.6,0,原記halibut; 實際格陵蘭比目魚; 去皮去骨
 2026-10-26,14:30,Lunch,maxims sourdough bread sliced,112,g,267,10.3,2.3,51,0.45,0,label per 100g: 239kcal; protein 9.2g; total fat 2.1g; sat fat 0.4g
 2026-10-26,12:00,Snack,banana,215,g,191,2.3,0.6,22,0.2,0,whole weight; edible \~190g
 2026-10-26,12:00,Hydration,h2o,250,ml,0,0,0,0,0,0,
@@ -435,7 +450,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 2026-10-25,19:25,Beverage,vitasoy calci plus original soya milk,250,ml,83,3.0,0.5,425,0.5,0,label per 100ml: 33kcal; protein 1.2g; total fat 1.3g; sat fat 0.2g
 2026-10-25,19:25,Dinner,beef ball,1,piece,45,4.0,0.8,3,0.6,0,牛丸 x1
 2026-10-25,19:25,Dinner,plain noodles,64.7,g,90,3.0,0.2,18,0.1,0,走蝦籽; scale 64.7g
-2026-10-25,19:25,Dinner,pan-fried halibut,67.6,g,75,14.0,0.4,0,0.3,0,煎比目魚; 去皮去骨; scale 67.6g
+2026-10-25,19:25,Dinner,pan-fried Greenland halibut,67.6,g,125,13.0,0.5,15,1.6,0,原記halibut; 實際格陵蘭比目魚; 去皮去骨
 2026-10-25,19:25,Dinner,spicy chicken fried dumpling,1,piece,80,5.0,1.5,8,1.2,0,辣籽雞煎餃 x1
 2026-10-25,19:25,Dinner,boiled green peas,189,g,153,10.2,0.4,55,0.2,0,scale 189g
 2026-10-25,19:10,Dinner,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
@@ -670,7 +685,7 @@ Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg
 
 2026-10-16,22:00,Snack,minced fish sesame mix (goma MIX),15.4,g,54,2.8,0.3,25,0.22,0,12 sticks; 5pcs=6.4g; label per 100g: 350kcal; protein 18.3g; total fat 6.3g; sat fat 1.4g; carbo 55.8g; sugar 20.2g; sodium 1614mg
 2026-10-16,19:20,Dinner,boiled okra,114.1,g,38,2.3,0.8,48,0.1,0,scale 114.1g
-2026-10-16,19:20,Dinner,pan-fried flounder,67.9,g,95,15.0,0.5,0,1.0,0,比目魚; scale 67.9g; 去皮
+2026-10-16,19:20,Dinner,pan-fried Greenland halibut,67.9,g,125,13.0,0.5,15,1.6,0,原記flounder; 實際格陵蘭比目魚; 去皮
 2026-10-16,19:20,Dinner,boiled lettuce,44.2,g,7,0.6,0.4,18,0.05,0,scale 44.2g
 2026-10-16,19:20,Dinner,stir-fried cucumber glass noodles with pork,55.9,g,70,5.0,0.5,15,0.8,0,青瓜粉絲48g + 肉片7.9g
 2026-10-16,19:20,Dinner,water chestnut pork patty,61.6,g,95,8.5,0.6,20,1.8,0,馬蹄肉餅; scale 61.6g
