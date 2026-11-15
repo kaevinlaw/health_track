@@ -1,4 +1,151 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+2026-11-20,21:00,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
+2026-11-20,21:00,Snack,hoshi crispy anchovy fish snack,5,piece,13,1.2,0.1,6,0.05,0,estimated \~4-5g; label sat fat 0g
+2026-11-20,20:08,Dinner,carrot from soup,158,g,54,1.2,0.4,47,0.1,0,
+2026-11-20,19:17,Dinner,carrot corn hairy gourd mussel lean pork soup,2,bowl,90,6.0,0.5,30,0.6,0,紅蘿蔔粟米合掌瓜淡菜瘦肉湯
+2026-11-20,19:38,Dinner,boiled lettuce,88.6,g,14,1.1,0.4,32,0.1,0,
+2026-11-20,19:38,Dinner,stir-fried mushroom with chicken,51.6,g,55,8.5,0.4,10,0.4,0,25.1g chicken no skin; 26.5g mushroom
+2026-11-20,19:38,Dinner,steamed egg with tofu 50:50,147.8,g,150,13.5,1.5,80,2.2,0,egg:tofu 50:50
+2026-11-20,19:38,Dinner,pan-fried salmon skinless,48.7,g,100,11.0,0.4,10,1.4,0,去皮
+2026-11-20,19:38,Dinner,boiled okra,81.1,g,27,1.7,0.5,34,0.1,0,
+2026-11-20,16:45,Snack,sansui tofu dessert,1,pack,217,7.0,1.5,100,1.05,0,350g; label per 100g: 62kcal; 2g protein; 1.5g total fat; 0.3g sat fat
+2026-11-20,16:45,Beverage,brown sugar ginger tea,100,g,372,0.0,0.0,0,0.0,0,label per 100g: 1556kJ (372kcal); protein 0g; total fat 0g; sat fat 0g; carbo 91.5g; sugar 86.6g
+2026-11-20,14:30,Lunch,envy apple,300,g,148,1.2,0.3,14,0.1,0,whole weight; edible \~255g
+2026-11-20,14:38,Lunch,steamed sweet potato,77,g,66,1.2,0.4,15,0.05,0,
+2026-11-20,14:15,Lunch,maxims high protein bread,90,g,246,14.2,4.1,122,0.7,0,label per 100g: 273kcal; protein 15.8g; total fat 4.5g; sat fat 0.8g; trans fat 0g; carbs 42.4g; sugars 5.4g; sodium 596mg; iron & calcium estimated
+2026-11-20,14:15,Lunch,jonetz light tuna flakes non-oil skipjack tuna,70,g,47,11.3,1.1,40,0,0,donki; label per 100g: 67.1kcal; 16.1g protein; 0.4g total fat; 0g sat fat
+2026-11-20,10:42,Beverage,top soya soymilk no sugar,480,ml,126,13.0,0.9,140,1.0,0,
+2026-11-20,10:12,Breakfast,steamed sweet potato,80,g,68,1.3,0.4,16,0.05,0,
+2026-11-20,08:39,Breakfast,banana,1,piece,134,1.5,0.4,14,0.15,0,whole weight \~150g
+2026-11-20,08:35,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-11-20,08:35,Breakfast,quaker instant oatmeal,30,g,110,4.6,1.2,15,0.5,0,dry weight
+2026-11-20,08:35,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-11-20,08:20,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+
+2026-11-19,21:00,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
+2026-11-19,19:17,Dinner,tomato tofu potato soup,2,bowl,80,4.5,0.5,40,0.4,0,蕃茄豆腐薯仔湯兩碗
+2026-11-19,19:17,Dinner,boiled okra,85.6,g,29,1.8,0.5,36,0.1,0,
+2026-11-19,19:17,Dinner,steamed chicken thigh skinless boneless,106,g,145,28.0,0.7,12,1.4,0,去皮去骨
+2026-11-19,19:17,Dinner,stir-fried cucumber egg shrimp vermicelli,146.4,g,130,12.0,1.5,35,1.3,0,青瓜60.4g+蛋23.2g+蝦仁24.6g+粉絲38.2g
+2026-11-19,19:17,Dinner,boiled choi sum,92.3,g,20,2.2,0.9,70,0.1,0,
+2026-11-19,19:17,Dinner,steamed white rice,1,bowl,170,3.5,0.3,8,0.1,0,\~150g cooked
+2026-11-19,19:17,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+2026-11-19,08:40,Lunch,quaker instant oatmeal,50,g,184,7.6,2.0,25,0.85,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-11-19,08:40,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-11-19,14:40,Lunch,baked chicken fillet with pepper,183.6,g,202,42.5,0.8,14,1.3,0,去皮; 只鹽黑椒; \~110kcal/100g
+2026-11-19,14:30,Lunch,banana,1,piece,135,1.6,0.4,14,0.15,0,whole weight \~152g
+2026-11-19,12:20,Snack,four seas crispy prawn cracker,15,g,59,0.2,0.1,5,0.0,0,1 pack; label per 100g: 1636kJ (\~391kcal); protein 1.6g; total fat 1.0g; sat fat 0g
+2026-11-19,10:10,Beverage,top soya soymilk no sugar,480,ml,126,13.0,0.9,140,1.0,0,
+2026-11-19,09:00,Breakfast,banana,1,piece,147,1.7,0.4,15,0.2,0,whole weight \~165g
+2026-11-19,08:40,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-11-19,08:40,Breakfast,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-11-19,08:40,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-11-19,08:40,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+
+2026-11-18,21:00,Snack,konjac glucomannan jelly,1,piece,4,0.05,0.025,2.5,0,0,
+2026-11-18,21:00,Snack,hoshi crispy anchovy fish snack,25,piece,65,5.8,0.6,30,0.15,0,estimated \~20-22g; label sat fat 0g
+2026-11-18,21:30,Beverage,vita lemon tea,250,ml,80,0,0,5,0,0,250ml; estimate low sat fat
+2026-11-18,18:50,Dinner,boiled okra,80.1,g,27,1.7,0.5,34,0.1,0,
+2026-11-18,18:50,Dinner,stir-fried cucumber wood ear shrimp,145.7,g,95,12.5,1.2,40,0.6,0,青瓜55.4g+木耳51.5g+蝦仁38.8g
+2026-11-18,18:50,Dinner,boiled choi sum,103.6,g,22,2.5,1.0,80,0.1,0,
+2026-11-18,18:50,Dinner,hairy gourd from soup,140.1,g,25,1.0,0.3,25,0.1,0,
+2026-11-18,18:50,Dinner,steamed chicken,153.7,g,185,36.0,0.8,15,1.2,0,去皮
+2026-11-18,18:50,Dinner,steamed white rice,1,bowl,170,3.5,0.3,8,0.1,0,\~150g cooked
+2026-11-18,18:50,Dinner,hairy gourd chicken feet lean pork soup,2,bowl,70,5.0,0.4,25,0.5,0,節瓜雞腳瘦肉湯兩碗
+2026-11-18,18:50,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
+2026-11-18,15:56,Beverage,coca cola coke regular,330,ml,140,0,0,0,0,0,regular; \~35g sugar
+2026-11-18,15:15,Lunch,maxims sourdough bread,120,g,287,11.0,0.6,25,0.5,0,label per 100g: 239kcal; protein 9.2g; total fat 2.1g; sat fat 0.4g
+2026-11-18,13:49,Beverage,pocari sweat,330,ml,80,0,0,0,0,0,1 can; electrolyte drink
+2026-11-18,13:41,Snack,banana,1,piece,132,1.5,0.4,14,0.15,0,whole weight \~148g
+2026-11-18,12:38,Beverage,pocari sweat,330,ml,80,0,0,0,0,0,1 can; electrolyte drink
+2026-11-18,12:29,Snack,banana,1,piece,132,1.5,0.4,14,0.15,0,whole weight \~148g
+2026-11-18,10:20,Breakfast,banana,1,piece,132,1.5,0.4,14,0.15,0,whole weight \~148g
+2026-11-18,10:20,Beverage,ucc instant coffee,150,ml,2,0,0,0,0,25,0.5 spoon; 117
+2026-11-18,10:20,Breakfast,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-11-18,10:20,Breakfast,black chia seed powder,1.7,g,14,0.5,0.2,17,0.1,0,1 coffee spoon
+2026-11-18,10:20,Breakfast,maxims sourdough bread,55.6,g,133,5.1,0.3,12,0.2,0,label per 100g: 239kcal; protein 9.2g; total fat 2.1g; sat fat 0.4g
+2026-11-18,10:20,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+
+2026-11-17,21:36,Snack,sansui tofu dessert,1,pack,136,4.4,0.8,60,0.66,0,220g; label per 100g: 62kcal; 2g protein; 1.5g total fat; 0.3g sat fat; 9.5g sugars
+2026-11-17,21:00,Snack,hoshi crispy anchovy fish snack,15,piece,40,3.5,0.4,20,0.1,0,estimated \~12-13g; label sat fat 0g
+2026-11-17,21:02,Snack,banana,159.6,g,142,1.7,0.4,15,0.2,0,whole weight
+2026-11-17,18:45,Dinner,goji winter melon lean pork soup,1,bowl,35,2.5,0.2,15,0.3,0,枸杞冬瓜瘦肉湯
+2026-11-17,18:45,Dinner,winter melon lean pork soup,1,bowl,35,2.5,0.2,15,0.3,0,九己冬瓜瘦肉湯一碗
+2026-11-17,18:45,Dinner,boiled okra,92.3,g,31,1.9,0.6,39,0.1,0,
+2026-11-17,18:45,Dinner,steamed garlic chicken breast,162.2,g,185,37.5,0.8,15,1.2,0,去皮
+2026-11-17,18:45,Dinner,stir-fried long bean with clam,89.3,g,55,7.0,1.5,40,0.4,0,豆角77.1g+蜆12.2g
+2026-11-17,18:45,Dinner,boiled choi sum,82.3,g,17,2.0,0.8,65,0.1,0,
+2026-11-17,18:45,Dinner,corn lotus root carrot pork bone soup,1,bowl,40,2.0,0.2,15,0.3,0,豆角 77.1g 炒 蜆12.2g
+2026-11-17,18:45,Dinner,steamed white rice,1,bowl,170,3.5,0.3,8,0.1,0,\~150g cooked
+2026-11-17,15:00,Snack,banana,1,piece,154,1.8,0.4,16,0.2,0,whole weight \~173g
+2026-11-17,12:50,Lunch,envy apple,283,g,140,1.1,0.3,13,0.1,0,whole weight; edible \~240g
+2026-11-17,12:30,Lunch,baked chicken breast with pepper,155,g,170,36.0,0.7,12,1.1,0,only salt and pepper; skinless; \~110kcal/100g
+2026-11-17,12:30,Beverage,americano,450,ml,5,0,0,0,0,25,1 beans; filtered
+2026-11-17,12:30,Lunch,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-11-17,12:20,Lunch,boiled okra,94.9,g,32,2.0,0.6,40,0.1,0,
+2026-11-17,10:38,Snack,edamame,81.7,g,99,9.6,1.7,52,0.6,0,
+2026-11-17,08:40,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-11-17,08:40,Breakfast,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-11-17,08:40,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-11-17,08:10,Breakfast,corn from soup,203,g,172,5.1,0.8,6,0.5,0,edible part weighted; boiled corn
+2026-11-17,07:10,Breakfast,quinoa & germ morning toast,90,g,239,9.1,0.7,20,0.7,0,2 piece; label per 100g: 265kcal; protein 10.1g; total fat 4.9g; sat fat 0.79g
+
+2026-11-16,21:00,Snack,konjac glucomannan jelly,2,piece,8,0.1,0.05,5,0,0,
+2026-11-16,21:00,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.2,5,0.0,0,
+2026-11-16,20:40,Beverage,top soya organic extra rich soymilk no sugar,240,ml,98,9.1,0.7,60,0.7,0,label per 100ml: 41kcal; 3.8g protein; 2.0g total fat; 0.3g sat fat
+2026-11-16,18:48,Dinner,baked black pepper chicken breast,114,g,125,26.5,0.5,9,0.8,0,去皮; 只鹽黑椒; \~110kcal/100g
+
+2026-11-16,18:48,Dinner,boiled okra,96.2,g,32,2.0,0.6,40,0.1,0,
+2026-11-16,18:48,Dinner,pan-fried tofu,46.8,g,70,5.5,1.0,80,0.7,0,
+2026-11-16,18:48,Dinner,shrimp from fried rice,8.7,g,10,2.0,0.2,5,0.1,0,
+2026-11-16,18:48,Dinner,boiled lettuce,109.3,g,18,1.4,0.5,40,0.1,0,
+2026-11-16,18:48,Dinner,pan-fried salmon skinless,24,g,50,5.5,0.2,5,0.7,0,去皮
+2026-11-16,18:48,Dinner,pork from soup lean only,30,g,50,7.0,0.4,5,0.6,0,連骨46.5g; 肥肉同骨無食; 估計淨瘦肉\~30g
+2026-11-16,18:48,Dinner,carrot from soup,117.8,g,40,0.9,0.3,35,0.1,0,
+2026-11-16,18:48,Dinner,corn lotus root carrot pork bone soup,2,bowl,70,3.5,0.4,25,0.5,0,
+2026-11-16,18:48,Dinner,steamed white rice,1,bowl,170,3.5,0.3,8,0.1,0,\~150g cooked
+2026-11-16,14:00,Snack,sansui tofu dessert,220,g,136,4.4,0.8,60,0.66,0,山水豆腐花; label per 100g: 62kcal; protein 2.0g; total fat 1.5g; sat fat 0.3g; sugars 9.5g
+2026-11-16,12:15,Beverage,americano,450,ml,5,0,0,0,0,25,1 beans; filtered
+2026-11-16,12:15,Lunch,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-11-16,12:15,Lunch,instant chicken breast (pepper),100,g,111,18.6,0.7,15,0.5,0,label per 100g: 110.7kcal; protein 18.6g; sat fat 0.5g
+2026-11-16,11:00,Beverage,brown sugar ginger tea,100,g,372,0.0,0.0,0,0.0,0,label per 100g: 1556kJ (372kcal); protein 0g; total fat 0g; sat fat 0g; carbo 91.5g; sugar 86.6g
+2026-11-16,09:20,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-11-16,09:00,Breakfast,envy apple,264,g,130,1.0,0.3,12,0.1,0,whole weight; edible \~225g
+2026-11-16,08:30,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-11-16,08:30,Breakfast,quaker instant oatmeal,40,g,147,6.1,1.6,20,0.7,0,dry weight; label per 100g 367kcal; protein 15.2g; sat fat 1.7g
+2026-11-16,08:30,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-11-16,05:45,Breakfast,quinoa & germ morning toast,90,g,239,9.1,0.7,20,0.7,0,2 piece; label per 100g: 265kcal; protein 10.1g; total fat 4.9g; sat fat 0.79g
+
+2026-11-15,21:45,Snack,mochikon matcha,113,g,82,1.0,0.2,15,0.1,0,1 pack; label per 100g: 72.8kcal; protein 0.9g; total fat 0.4g; sat fat 0.1g
+2026-11-15,21:28,Snack,orin apple,90,g,47,0.3,0.1,5,0.05,0,王林蘋果兩塊; estimate ~90g
+2026-11-15,19:20,Beverage,top soya organic extra rich soymilk no sugar,440,ml,180,16.7,1.3,110,1.3,0,label per 100ml: 41kcal; 3.8g protein; 2.0g total fat; 0.3g sat fat
+2026-11-15,19:20,Dinner,edamame brought,80,g,96,9.4,1.6,50,0.6,0,自帶毛豆; estimate ~80g shelled
+2026-11-15,19:20,Dinner,boiled okra brought,70,g,24,1.5,0.4,30,0.1,0,自帶秋葵; ~5-6 pieces
+2026-11-15,19:20,Dinner,teppan garlic broccolini,6,piece,45,3.5,0.8,40,0.3,0,鐵板蒜蓉西蘭花苗6棵; light oil
+2026-11-15,19:20,Dinner,white rice with onsen egg,1,bowl,220,9.5,1.0,40,1.8,0,白飯+温泉玉子; egg ~50g
+2026-11-15,19:20,Dinner,salt-grilled chicken wing root,1,piece,55,6.0,0.3,8,1.2,0,鹽燒雞翅根; 小件約1圓大小
+2026-11-15,19:20,Dinner,salt-grilled tiger prawn,2,piece,70,14.0,0.8,30,0.4,0,鹽燒虎蝦兩隻; 去殼後估計
+2026-11-15,19:20,Dinner,salt-grilled chicken oyster skewer skin removed,1,skewer,65,11.0,0.4,10,0.7,0,鹽燒雞生蠔串; 去皮一串3塊
+2026-11-15,19:20,Dinner,salt-grilled chicken breast cartilage,2,skewer,80,10.0,0.5,15,1.0,0,鹽燒雞胸脆骨兩串
+2026-11-15,16:10,Snack,imuraya tofu dessert,200,g,124,4.0,0.6,50,0.6,0,label per 100g: 63kcal; protein 2.8g; total fat 1.7g; sat fat 0.2g; carbo 9.3g; sugar 8.1g; sodium 3.3mg
+2026-11-15,14:00,Snack,seasoned tuna fish snack,10,piece,55,6.0,0.5,15,0.3,0,
+2026-11-15,14:00,Beverage,asahi wonda black coffee,400,ml,5,0,0,0,0,80,
+2026-11-15,12:36,Lunch,cucumber maki,5,piece,120,3.5,0.4,15,0.2,0,青瓜卷x5
+2026-11-15,12:36,Lunch,crab stick maki,2,piece,55,2.5,0.3,10,0.3,0,蟹柳卷兩件
+2026-11-15,12:36,Lunch,tea-boiled shrimp,2,piece,35,7.0,0.5,15,0.2,0,茶煮蒸蝦x2
+2026-11-15,12:36,Lunch,tea-boiled scallop,1,piece,25,4.0,0.3,8,0.1,0,茶煮蒸帶子x1
+2026-11-15,12:36,Lunch,tuna nigiri,2,piece,70,12.0,0.6,10,0.4,0,吞拿魚壽司x2
+2026-11-15,12:36,Lunch,yuzu/salt lime yellowtail nigiri,2,piece,90,14.0,0.5,12,0.8,0,海鹽青檸鰤魚壽司x2
+2026-11-15,12:36,Lunch,salt-grilled flounder skirt nigiri,1,piece,80,9.0,0.4,10,1.0,0,鹽燒左口魚裙邊壽司x1
+2026-11-15,12:36,Lunch,sweet shrimp nigiri,2,piece,65,8.0,0.5,15,0.3,0,甜蝦壽司x2
+2026-11-15,12:00,Snack,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+2026-11-15,09:45,Breakfast,quinoa & germ morning toast,90,g,239,9.1,0.7,20,0.7,0,2 piece; label per 100g: 265kcal; protein 10.1g; total fat 4.9g; sat fat 0.79g
+2026-11-15,09:35,Snack,banana,1,piece,113,1.3,0.3,13,0.15,0,whole weight \~127g
+2026-11-15,09:30,Breakfast,quaker instant oatmeal,30,g,110,4.6,1.2,15,0.5,0,dry weight
+2026-11-15,09:30,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-11-15,09:30,Beverage,ucc instant coffee,350,ml,5,0,0,0,0,50,1.5 spoon; 117
+2026-11-15,09:30,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+
 2026-11-14,23:59,Beverage,carlsberg 0.0 non-alcoholic beer,1,can,60,0,0,0,0,0,
 2026-11-14,21:30,Snack,dried whole crab snack,18,g,54,2.9,0.5,11,0.08,0,石丸弥蔵 まるごと黄金カニ; 6隻; label per 100g: 302kcal; protein 15.9g; total fat 1.4g; sat fat 0.43g
 2026-11-14,18:28,Dinner,fish fillet burger no sauce,1,piece,300,16.0,1.5,30,3.0,0,sauce removed
