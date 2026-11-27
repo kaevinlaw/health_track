@@ -1,8 +1,32 @@
 Date,Time,Category,Item,Quantity,Unit,Calories_kcal,Protein_g,Iron_mg,Calcium_mg,Saturated_Fat_g,Caffeine_mg,Notes
+2026-11-27,15:30,Beverage,coca cola coke zero,330,ml,1,0,0,0,0,32,Coca-Cola Zero Sugar; ~0 kcal; caffeine ~10mg/100ml
+2026-11-27,14:35,Lunch,edamame,57.4,g,xx,xx,xx,xx,xx,0,
+2026-11-27,14:35,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-11-27,14:35,Lunch,quaker instant oatmeal,50,g,xx,xx,xx,xx,xx,0,dry weight
+2026-11-27,14:35,Lunch,pan-fried salmon edible,34.1,g,xx,xx,xx,xx,xx,0,連皮連骨81.5g; 無食皮同骨; 估計淨肉\~55g
+2026-11-27,11:38,Snack,maxims high protein bread,90,g,246,14.2,4.1,122,0.7,0,label per 100g: 273kcal; protein 15.8g; total fat 4.5g; sat fat 0.8g; trans fat 0g; carbs 42.4g; sugars 5.4g; sodium 596mg; iron & calcium estimated
+2026-11-27,10:27,Snack,steamed sweet potato,101.4,g,86,1.6,0.5,20,0.05,0,
+2026-11-27,10:19,Snack,steamed sweet potato,90,g,77,1.4,0.4,18,0.05,0,
+2026-11-27,10:19,Beverage,americano,450,ml,5,0,0,0,0,25,1 beans; filtered
+2026-11-27,08:10,Breakfast,banana,1,piece,159,1.8,0.5,16,0.2,0,whole weight \~179g
+2026-11-27,08:10,Beverage,americano,450,ml,5,0,0,0,0,75,3 beans; filtered
+2026-11-27,08:10,Breakfast,quaker instant oatmeal,30,g,110,4.6,1.2,15,0.5,0,dry weight
+2026-11-27,08:10,Breakfast,black chia seed powder,3,g,24,0.8,0.4,30,0.2,0,1 coffee spoon
+2026-11-27,08:10,Breakfast,almonds,5,g,30,1.1,0.4,13,0.2,0,5 pieces
+salt candy x2
+2026-11-26,21:40,Snack,sansui tofu dessert,1,pack,217,7.0,1.5,100,1.05,0,350g; label per 100g: 62kcal; 2g protein; 1.5g total fat; 0.3g sat fat
 2026-11-26,21:30,Snack,seasoned tuna fish snack,2,piece,9.5,1.0,0.2,5,0.0,0,
+2026-11-26,12:17,Beverage,black coffee with sugar,1,cup,15,0.1,0,5,0,40,齋啡+少糖
+2026-11-26,18:50,Dinner,boiled okra,51.3,g,17,1.1,0.3,22,0.05,0,
+2026-11-26,18:50,Dinner,steamed chicken breast,175.6,g,193,40.5,0.8,14,1.2,0,去皮估計
+2026-11-26,18:50,Dinner,stir-fried long bean with dried shrimp,59.7,g,55,5.5,1.2,40,0.5,0,豆角炒蝦米
+2026-11-26,18:50,Dinner,boiled choi sum,54,g,12,1.3,0.5,40,0.05,0,
+2026-11-26,18:50,Dinner,steamed white rice,1.5,bowl,255,5.3,0.5,12,0.15,0,\~225g cooked
+2026-11-26,18:50,Dinner,corn tomato carrot potato lean pork soup,2,bowl,80,4.5,0.4,25,0.5,0,
+2026-11-26,18:50,Beverage,vitasoy calci plus plant sterol soya milk,250,ml,115,5.0,0.5,300,1.25,0,2.0g plant sterol
 2026-11-26,17:00,Beverage,pocari sweat,330,ml,80,0,0,0,0,0,1 can; electrolyte drink
 2026-11-26,15:48,Beverage,pocari sweat,330,ml,80,0,0,0,0,0,1 can; electrolyte drink
-2026-11-26,12:17,Lunch,xx,1,bowl,xx,xx,xx,xx,xx,0,蒜片牛肋條"don"飯
+2026-11-26,12:17,Lunch,corn garlic beef short rib don,1,bowl,680,35,2.5,40,12.0,0,粟米蒜片牛肋條丼; 牛肋條sat fat較高; 估算
 2026-11-26,12:17,Lunch,grilled chicken breast,1,skewer,70,14,0.5,5,0.3,0,
 2026-11-26,12:17,Lunch,salt-grilled chicken breast cartilage,1,skewer,40,5.0,0.25,7.5,0.5,0,鹽燒雞胸脆骨一串
 2026-11-26,12:17,Beverage,black coffee with sugar,1,cup,xx,xx,xx,xx,xx,0,
